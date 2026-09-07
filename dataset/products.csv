@@ -1,0 +1,141 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost,supplier_lead_days
+P0001,Laptops 001,Electronics,Laptops,11190.99,7242.77,10
+P0002,Desks 002,Furniture,Desks,12946.32,8395.91,5
+P0003,Mice 003,Accessories,Mice,216.76,180.29,5
+P0004,Desks 004,Furniture,Desks,3111.76,2205.02,3
+P0005,Cables 005,Accessories,Cables,466.92,305.29,16
+P0006,Tables 006,Furniture,Tables,2884.06,1980.75,3
+P0007,Tables 007,Furniture,Tables,15044.28,11306.3,7
+P0008,Storage 008,Furniture,Storage,6092.87,4956.09,15
+P0009,Audio 009,Electronics,Audio,13095.23,8114.48,11
+P0010,Cameras 010,Electronics,Cameras,5075.1,3555.52,15
+P0011,Audio 011,Electronics,Audio,10003.14,6245.51,14
+P0012,Cables 012,Accessories,Cables,1254.01,823.65,4
+P0013,Storage 013,Furniture,Storage,4904.4,2863.4,10
+P0014,Cameras 014,Electronics,Cameras,19566.14,15021.45,14
+P0015,Storage 015,Furniture,Storage,12656.42,9462.31,11
+P0016,Monitors 016,Electronics,Monitors,13825.04,9693.06,10
+P0017,Tables 017,Furniture,Tables,6610.48,4900.62,10
+P0018,Paper 018,Office Supplies,Paper,358.1,279.48,4
+P0019,Printing 019,Office Supplies,Printing,203.14,156.5,9
+P0020,Keyboards 020,Accessories,Keyboards,571.07,448.13,18
+P0021,Small Appliances 021,Appliances,Small Appliances,2035.78,1634.43,7
+P0022,Storage 022,Furniture,Storage,15327.47,9898.12,16
+P0023,Mice 023,Accessories,Mice,586.97,437.81,7
+P0024,Mice 024,Accessories,Mice,1084.37,885.24,4
+P0025,Monitors 025,Electronics,Monitors,13550.39,9171.77,16
+P0026,Bags 026,Accessories,Bags,479.5,354.81,17
+P0027,Keyboards 027,Accessories,Keyboards,365.91,214.98,3
+P0028,Audio 028,Electronics,Audio,22191.34,14206.1,13
+P0029,Audio 029,Electronics,Audio,9394.21,6829.22,17
+P0030,Audio 030,Electronics,Audio,13469.52,7910.77,8
+P0031,Bags 031,Accessories,Bags,804.72,493.83,12
+P0032,Cables 032,Accessories,Cables,1019.19,815.62,8
+P0033,Bags 033,Accessories,Bags,1244.13,851.33,18
+P0034,Laptops 034,Electronics,Laptops,10596.8,6341.49,12
+P0035,Chairs 035,Furniture,Chairs,3467.9,2695.85,5
+P0036,Cameras 036,Electronics,Cameras,13872.57,8709.67,7
+P0037,Tables 037,Furniture,Tables,3389.93,2013.01,8
+P0038,Printing 038,Office Supplies,Printing,287.13,169.2,9
+P0039,Printing 039,Office Supplies,Printing,336.22,195.43,14
+P0040,Small Appliances 040,Appliances,Small Appliances,3411.56,2758.38,10
+P0041,Audio 041,Electronics,Audio,10224.7,8532.83,10
+P0042,Cables 042,Accessories,Cables,8137.8,6820.54,4
+P0043,Chairs 043,Furniture,Chairs,10143.22,6132.5,13
+P0044,Monitors 044,Electronics,Monitors,13270.91,10186.7,18
+P0045,Desks 045,Furniture,Desks,1944.97,1267.98,18
+P0046,Tables 046,Furniture,Tables,5627.13,3545.38,9
+P0047,Laptops 047,Electronics,Laptops,5040.51,3370.41,14
+P0048,Small Appliances 048,Appliances,Small Appliances,2214.82,1591.51,4
+P0049,Laptops 049,Electronics,Laptops,4840.93,3559.63,13
+P0050,Monitors 050,Electronics,Monitors,6519.64,5151.73,17
+P0051,Tables 051,Furniture,Tables,8998.6,7129.53,17
+P0052,Chairs 052,Furniture,Chairs,10903.09,7902.41,6
+P0053,Laptops 053,Electronics,Laptops,4435.94,2608.6,10
+P0054,Tables 054,Furniture,Tables,13330.72,9514.58,9
+P0055,Kitchen 055,Appliances,Kitchen,3314.76,2642.51,3
+P0056,Cooling 056,Appliances,Cooling,3435.37,2058.15,17
+P0057,Printing 057,Office Supplies,Printing,715.02,471.12,18
+P0058,Desks 058,Furniture,Desks,4996.63,3811.71,4
+P0059,Bags 059,Accessories,Bags,838.87,541.51,4
+P0060,Cameras 060,Electronics,Cameras,5164.73,3663.13,8
+P0061,Laptops 061,Electronics,Laptops,4727.51,2924.68,5
+P0062,Bags 062,Accessories,Bags,583.23,387.52,10
+P0063,Kitchen 063,Appliances,Kitchen,5367.44,3194.62,10
+P0064,Bags 064,Accessories,Bags,611.19,414.97,16
+P0065,Keyboards 065,Accessories,Keyboards,345.88,206.48,9
+P0066,Writing 066,Office Supplies,Writing,461.93,356.12,7
+P0067,Printing 067,Office Supplies,Printing,311.59,236.12,5
+P0068,Cameras 068,Electronics,Cameras,7364.4,4996.74,6
+P0069,Monitors 069,Electronics,Monitors,4748.37,3364.08,7
+P0070,Paper 070,Office Supplies,Paper,137.81,84.26,14
+P0071,Writing 071,Office Supplies,Writing,479.01,347.8,12
+P0072,Bags 072,Accessories,Bags,388.5,258.88,12
+P0073,Monitors 073,Electronics,Monitors,11356.84,8758.84,6
+P0074,Cables 074,Accessories,Cables,402.44,309.55,9
+P0075,Writing 075,Office Supplies,Writing,663.9,439.0,11
+P0076,Mice 076,Accessories,Mice,393.31,304.7,4
+P0077,Cameras 077,Electronics,Cameras,4694.66,2931.2,4
+P0078,Audio 078,Electronics,Audio,8935.22,5714.15,11
+P0079,Tables 079,Furniture,Tables,7119.23,4958.99,16
+P0080,Bags 080,Accessories,Bags,1487.1,1205.91,7
+P0081,Bags 081,Accessories,Bags,496.44,309.28,7
+P0082,Cleaning 082,Appliances,Cleaning,3541.05,2935.97,14
+P0083,Audio 083,Electronics,Audio,12868.65,10106.78,10
+P0084,Audio 084,Electronics,Audio,4981.49,3174.05,16
+P0085,Cables 085,Accessories,Cables,1011.81,606.38,10
+P0086,Desks 086,Furniture,Desks,3194.84,1951.51,3
+P0087,Storage 087,Furniture,Storage,1769.45,1126.4,16
+P0088,Storage 088,Furniture,Storage,13302.92,10623.83,6
+P0089,Kitchen 089,Appliances,Kitchen,3122.93,1926.12,10
+P0090,Tables 090,Furniture,Tables,6645.06,4977.74,10
+P0091,Chairs 091,Furniture,Chairs,9185.01,6139.18,15
+P0092,Binders 092,Office Supplies,Binders,169.12,104.05,11
+P0093,Printing 093,Office Supplies,Printing,203.4,134.92,13
+P0094,Laptops 094,Electronics,Laptops,7018.96,4295.39,11
+P0095,Storage 095,Furniture,Storage,1531.41,1271.15,16
+P0096,Binders 096,Office Supplies,Binders,354.67,257.68,6
+P0097,Cleaning 097,Appliances,Cleaning,3722.23,2880.16,16
+P0098,Monitors 098,Electronics,Monitors,3214.85,2396.04,5
+P0099,Binders 099,Office Supplies,Binders,311.86,208.17,6
+P0100,Binders 100,Office Supplies,Binders,269.16,179.42,13
+P0101,Cooling 101,Appliances,Cooling,4618.3,3213.66,9
+P0102,Small Appliances 102,Appliances,Small Appliances,3391.79,2251.8,8
+P0103,Keyboards 103,Accessories,Keyboards,457.19,335.77,3
+P0104,Binders 104,Office Supplies,Binders,174.57,137.1,13
+P0105,Small Appliances 105,Appliances,Small Appliances,4639.49,3363.81,9
+P0106,Mice 106,Accessories,Mice,369.52,234.14,8
+P0107,Audio 107,Electronics,Audio,12272.12,8663.9,13
+P0108,Monitors 108,Electronics,Monitors,8356.62,5557.76,10
+P0109,Desks 109,Furniture,Desks,2918.02,2432.61,10
+P0110,Kitchen 110,Appliances,Kitchen,4116.21,2970.22,9
+P0111,Small Appliances 111,Appliances,Small Appliances,3837.79,2824.96,7
+P0112,Laptops 112,Electronics,Laptops,6199.85,3953.09,10
+P0113,Tables 113,Furniture,Tables,17008.53,14065.09,10
+P0114,Cameras 114,Electronics,Cameras,6215.19,5005.29,17
+P0115,Keyboards 115,Accessories,Keyboards,1140.38,676.23,17
+P0116,Mice 116,Accessories,Mice,1398.9,872.99,17
+P0117,Tables 117,Furniture,Tables,4322.51,3125.1,10
+P0118,Printing 118,Office Supplies,Printing,187.28,126.8,11
+P0119,Kitchen 119,Appliances,Kitchen,4024.67,2634.06,10
+P0120,Binders 120,Office Supplies,Binders,174.46,132.04,5
+P0121,Desks 121,Furniture,Desks,3270.86,2948.43,9
+P0122,Cameras 122,Electronics,Cameras,27444.4,25029.77,16
+P0123,Monitors 123,Electronics,Monitors,12398.59,11440.63,3
+P0124,Mice 124,Accessories,Mice,769.33,680.09,12
+P0125,Small Appliances 125,Appliances,Small Appliances,7385.34,6636.29,10
+P0126,Cleaning 126,Appliances,Cleaning,3406.48,3120.35,15
+P0127,Printing 127,Office Supplies,Printing,273.99,244.17,7
+P0128,Bags 128,Accessories,Bags,286.63,260.42,3
+P0129,Cameras 129,Electronics,Cameras,6514.2,5977.96,4
+P0130,Printing 130,Office Supplies,Printing,290.07,266.33,13
+P0131,Cooling 131,Appliances,Cooling,1696.1,1093.1,16
+P0132,Paper 132,Office Supplies,Paper,294.93,211.68,4
+P0133,Writing 133,Office Supplies,Writing,293.53,196.95,4
+P0134,Monitors 134,Electronics,Monitors,8683.5,6844.04,3
+P0135,Cables 135,Accessories,Cables,266.43,207.28,18
+P0136,Monitors 136,Electronics,Monitors,4887.42,3514.5,11
+P0137,Writing 137,Office Supplies,Writing,223.97,152.85,6
+P0138,Storage 138,Furniture,Storage,4759.13,3863.91,3
+P0139,Printing 139,Office Supplies,Printing,164.91,121.52,9
+P0140,Monitors 140,Electronics,Monitors,6626.25,5390.49,12

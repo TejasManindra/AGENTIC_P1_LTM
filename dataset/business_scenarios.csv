@@ -1,0 +1,11 @@
+scenario_id,scenario_type,scenario_name,business_meaning,detection_logic
+S001,Positive,Strong growth,High sales and profit with sustained growth,sales_growth > 10% and profit_margin_pct > 20%
+S002,Negative,Margin compression,High revenue but weak profit margin,high sales and profit_margin_pct < 8%
+S003,Negative,Marketing inefficiency,High marketing spend with poor ROI,roi < 0.05
+S004,Negative,Overstock risk,High inventory with weak demand,inventory_units high and sales trend declining
+S005,Negative,Stockout risk,Strong demand with inventory below reorder level,high sales velocity and inventory_units < reorder_level
+S006,Positive,Customer loyalty,Repeat customers with high lifetime value,order_count >= 5 and lifetime_profit high
+S007,Negative,Returns problem,Elevated returns on selected products,return rate materially above portfolio average
+S008,Positive,Regional opportunity,Region with improving sales and profit,sales and profit both increasing
+S009,Neutral,Stable performance,Consistent sales and margin without major changes,low variance around trend
+S010,Negative,Loss-making product,Product with negative contribution margin,profit < 0

@@ -1,0 +1,751 @@
+customer_id,customer_name,segment,region,city,signup_date,customer_tenure_months,order_count,last_order_date,lifetime_revenue,lifetime_profit,customer_value_band
+C00001,Customer 0001,Consumer,North,Delhi,2025-05-27,24,18,2025-11-09,414557.55,31306.68,Very High
+C00002,Customer 0002,Consumer,North,Jaipur,2025-05-10,32,17,2025-09-12,223700.49,21950.34,Very High
+C00003,Customer 0003,Home Office,North,Lucknow,2025-07-30,10,13,2025-09-28,229451.09,24407.53,Very High
+C00004,Customer 0004,Corporate,East,Bhubaneswar,2024-07-07,40,11,2025-10-17,394205.33,39890.77,Very High
+C00005,Customer 0005,Consumer,East,Patna,2026-04-28,18,16,2025-11-09,395490.25,60195.81,Very High
+C00006,Customer 0006,Home Office,West,Pune,2023-06-27,18,17,2025-11-01,351277.91,31527.35,Very High
+C00007,Customer 0007,Corporate,East,Bhubaneswar,2026-03-13,40,16,2025-08-29,341522.92,36462.24,Very High
+C00008,Customer 0008,Consumer,East,Guwahati,2024-10-27,12,7,2025-10-16,106036.25,5138.75,High
+C00009,Customer 0009,Consumer,East,Bhubaneswar,2024-06-13,22,17,2025-10-12,275378.13,32368.75,Very High
+C00010,Customer 0010,Consumer,West,Ahmedabad,2025-11-24,13,20,2025-10-20,366937.6,37888.75,Very High
+C00011,Customer 0011,Corporate,North,Chandigarh,2025-09-27,36,13,2025-10-19,484968.72,76055.57,Very High
+C00012,Customer 0012,Corporate,South,Kochi,2025-10-02,29,20,2025-09-24,625587.42,70243.11,Very High
+C00013,Customer 0013,Consumer,North,Delhi,2025-04-08,16,14,2025-07-16,208264.86,25393.42,Very High
+C00014,Customer 0014,Consumer,West,Ahmedabad,2025-12-23,23,21,2025-12-13,636595.98,41680.16,Very High
+C00015,Customer 0015,Consumer,East,Guwahati,2025-07-18,18,12,2025-11-09,219005.64,14453.56,Very High
+C00016,Customer 0016,Consumer,West,Ahmedabad,2024-01-30,21,25,2025-12-14,490779.88,39590.86,Very High
+C00017,Customer 0017,Consumer,North,Chandigarh,2025-09-18,18,12,2025-11-09,273839.08,43274.06,Very High
+C00018,Customer 0018,Home Office,West,Mumbai,2024-08-29,15,15,2025-12-11,211801.57,26481.32,Very High
+C00019,Customer 0019,Consumer,West,Pune,2025-12-29,9,14,2025-09-23,185658.01,12828.56,Very High
+C00020,Customer 0020,Home Office,West,Mumbai,2026-02-07,19,16,2025-10-15,412924.22,35190.2,Very High
+C00021,Customer 0021,Consumer,South,Kochi,2023-01-26,37,11,2025-09-27,274503.3,46600.0,Very High
+C00022,Customer 0022,Consumer,West,Surat,2024-11-28,12,16,2025-09-19,319628.05,38949.21,Very High
+C00023,Customer 0023,Home Office,North,Jaipur,2025-09-05,8,24,2025-11-18,513551.42,49556.64,Very High
+C00024,Customer 0024,Consumer,North,Lucknow,2026-03-27,41,19,2025-12-06,423607.02,50588.03,Very High
+C00025,Customer 0025,Consumer,North,Chandigarh,2026-02-26,20,17,2025-12-17,436391.86,67287.56,Very High
+C00026,Customer 0026,Consumer,North,Chandigarh,2025-05-02,39,14,2025-11-03,261692.4,35343.88,Very High
+C00027,Customer 0027,Consumer,South,Kochi,2025-06-25,20,13,2025-10-15,191401.17,5241.95,Very High
+C00028,Customer 0028,Consumer,East,Guwahati,2023-05-04,40,15,2025-12-01,315755.32,48987.02,Very High
+C00029,Customer 0029,Corporate,North,Chandigarh,2024-06-25,6,19,2025-08-22,432019.57,34065.4,Very High
+C00030,Customer 0030,Consumer,South,Bengaluru,2023-06-03,11,21,2025-07-28,434173.79,28869.81,Very High
+C00031,Customer 0031,Consumer,North,Lucknow,2026-05-01,31,25,2025-12-21,484318.25,45552.53,Very High
+C00032,Customer 0032,Consumer,West,Mumbai,2024-08-02,30,25,2025-10-12,439705.73,19011.1,Very High
+C00033,Customer 0033,Home Office,North,Chandigarh,2026-04-22,13,8,2025-05-26,148832.02,14264.17,Very High
+C00034,Customer 0034,Consumer,East,Kolkata,2023-11-02,18,10,2025-12-12,281587.05,48955.0,Very High
+C00035,Customer 0035,Consumer,South,Hyderabad,2024-09-21,39,10,2025-11-26,175691.32,8918.95,Very High
+C00036,Customer 0036,Consumer,West,Surat,2024-09-14,26,16,2025-10-21,334888.88,28639.09,Very High
+C00037,Customer 0037,Consumer,West,Surat,2026-05-09,3,13,2025-10-27,169119.8,14873.67,Very High
+C00038,Customer 0038,Consumer,East,Guwahati,2023-02-22,6,13,2025-12-27,190167.14,22964.75,Very High
+C00039,Customer 0039,Home Office,South,Hyderabad,2024-07-05,37,20,2025-09-15,277898.39,18572.96,Very High
+C00040,Customer 0040,Consumer,North,Chandigarh,2025-06-24,18,21,2025-08-20,514585.76,55293.14,Very High
+C00041,Customer 0041,Corporate,South,Kochi,2025-10-04,6,15,2025-11-02,118284.47,7106.28,High
+C00042,Customer 0042,Consumer,East,Guwahati,2024-10-19,7,24,2025-11-12,358143.45,45797.06,Very High
+C00043,Customer 0043,Consumer,South,Chennai,2025-10-11,19,16,2025-12-20,191153.07,19527.73,Very High
+C00044,Customer 0044,Consumer,East,Kolkata,2024-10-06,17,14,2025-10-31,271274.16,28488.98,Very High
+C00045,Customer 0045,Home Office,West,Mumbai,2025-04-07,33,14,2025-10-17,219828.9,13062.98,Very High
+C00046,Customer 0046,Consumer,North,Lucknow,2024-01-20,34,13,2025-11-13,148716.3,17398.18,Very High
+C00047,Customer 0047,Corporate,West,Surat,2023-04-16,14,12,2025-10-05,253125.82,31281.69,Very High
+C00048,Customer 0048,Home Office,West,Pune,2025-06-16,32,20,2025-12-31,382461.69,36656.24,Very High
+C00049,Customer 0049,Home Office,North,Delhi,2026-05-31,16,13,2025-12-02,319522.81,37532.12,Very High
+C00050,Customer 0050,Consumer,South,Chennai,2026-02-05,27,11,2025-10-31,176949.47,25458.03,Very High
+C00051,Customer 0051,Home Office,North,Chandigarh,2023-08-21,30,15,2025-10-10,315334.89,34398.73,Very High
+C00052,Customer 0052,Consumer,North,Chandigarh,2024-08-20,33,13,2025-12-20,319109.05,46614.31,Very High
+C00053,Customer 0053,Home Office,West,Surat,2025-08-25,16,23,2025-11-09,317189.46,30939.89,Very High
+C00054,Customer 0054,Consumer,East,Bhubaneswar,2026-05-12,33,17,2025-02-02,287685.25,31280.79,Very High
+C00055,Customer 0055,Consumer,South,Hyderabad,2025-04-29,22,14,2025-12-25,211309.41,43924.17,Very High
+C00056,Customer 0056,Consumer,West,Mumbai,2024-09-03,38,13,2025-12-02,199838.77,30842.25,Very High
+C00057,Customer 0057,Consumer,East,Bhubaneswar,2025-09-18,23,9,2025-12-05,144175.15,15339.62,Very High
+C00058,Customer 0058,Consumer,West,Surat,2024-10-21,13,12,2025-11-15,124540.91,14198.12,Very High
+C00059,Customer 0059,Consumer,South,Kochi,2025-04-21,3,15,2025-12-08,251944.58,38502.87,Very High
+C00060,Customer 0060,Corporate,West,Surat,2025-02-19,25,17,2025-11-16,511870.74,40137.7,Very High
+C00061,Customer 0061,Home Office,South,Kochi,2023-09-16,33,16,2025-12-27,305883.69,44667.61,Very High
+C00062,Customer 0062,Home Office,West,Mumbai,2025-06-20,7,14,2025-02-10,392794.29,78732.51,Very High
+C00063,Customer 0063,Corporate,East,Kolkata,2025-04-19,42,20,2025-09-24,238295.58,18604.83,Very High
+C00064,Customer 0064,Consumer,South,Hyderabad,2024-06-26,22,19,2025-12-31,404950.33,44257.39,Very High
+C00065,Customer 0065,Home Office,East,Kolkata,2025-12-28,25,20,2025-12-13,371116.53,27691.92,Very High
+C00066,Customer 0066,Home Office,West,Surat,2023-03-15,40,9,2025-04-08,170480.72,16612.42,Very High
+C00067,Customer 0067,Corporate,North,Chandigarh,2024-08-11,15,15,2025-10-24,324431.92,41757.73,Very High
+C00068,Customer 0068,Home Office,North,Lucknow,2023-07-25,29,14,2025-11-08,195283.98,4293.53,Very High
+C00069,Customer 0069,Home Office,South,Chennai,2023-04-05,21,20,2025-12-22,378463.21,68134.61,Very High
+C00070,Customer 0070,Consumer,North,Jaipur,2025-06-01,10,20,2025-12-21,426878.47,29617.98,Very High
+C00071,Customer 0071,Consumer,South,Kochi,2024-01-04,11,15,2025-07-05,311618.87,53206.55,Very High
+C00072,Customer 0072,Consumer,South,Hyderabad,2025-02-22,40,15,2025-12-27,373529.51,20011.34,Very High
+C00073,Customer 0073,Home Office,South,Kochi,2023-10-21,15,15,2025-07-31,381770.48,57436.98,Very High
+C00074,Customer 0074,Consumer,East,Guwahati,2023-01-20,30,12,2025-10-07,172701.78,24284.96,Very High
+C00075,Customer 0075,Consumer,West,Pune,2024-12-08,38,17,2025-12-24,232601.69,-747.79,Very High
+C00076,Customer 0076,Corporate,West,Surat,2025-07-24,20,15,2025-11-14,184300.6,30426.8,Very High
+C00077,Customer 0077,Home Office,South,Kochi,2023-08-07,16,22,2025-10-24,397912.96,36127.07,Very High
+C00078,Customer 0078,Consumer,East,Guwahati,2024-08-27,2,14,2025-07-30,219068.99,13516.4,Very High
+C00079,Customer 0079,Consumer,East,Guwahati,2023-04-11,39,15,2025-10-29,298809.37,40592.92,Very High
+C00080,Customer 0080,Corporate,East,Guwahati,2024-04-16,39,16,2025-10-19,248593.44,37280.64,Very High
+C00081,Customer 0081,Corporate,West,Pune,2024-05-28,9,14,2025-11-30,321858.41,24431.99,Very High
+C00082,Customer 0082,Consumer,North,Delhi,2025-06-21,3,18,2025-11-30,354552.29,36771.09,Very High
+C00083,Customer 0083,Consumer,West,Pune,2024-08-27,21,16,2025-12-28,385164.52,33767.29,Very High
+C00084,Customer 0084,Consumer,East,Bhubaneswar,2026-01-09,24,19,2025-12-12,541310.36,61383.16,Very High
+C00085,Customer 0085,Consumer,West,Pune,2025-09-13,19,9,2025-08-10,98201.7,-967.05,High
+C00086,Customer 0086,Consumer,West,Mumbai,2023-06-04,10,13,2025-09-13,301575.11,28225.63,Very High
+C00087,Customer 0087,Home Office,South,Kochi,2026-02-15,24,19,2025-10-24,397209.57,21996.69,Very High
+C00088,Customer 0088,Consumer,North,Lucknow,2026-01-03,8,17,2025-09-10,414884.75,30042.14,Very High
+C00089,Customer 0089,Corporate,East,Guwahati,2024-06-20,38,14,2025-11-22,312007.97,33528.15,Very High
+C00090,Customer 0090,Consumer,East,Guwahati,2024-04-23,31,19,2025-09-15,419437.91,55490.73,Very High
+C00091,Customer 0091,Home Office,North,Jaipur,2024-03-29,42,17,2025-11-03,332200.77,-9199.5,Very High
+C00092,Customer 0092,Home Office,North,Lucknow,2024-09-10,42,17,2025-12-04,295292.81,31759.18,Very High
+C00093,Customer 0093,Consumer,East,Kolkata,2023-03-18,20,20,2025-12-01,387932.14,51242.28,Very High
+C00094,Customer 0094,Consumer,East,Kolkata,2026-01-05,9,16,2025-12-31,394209.86,40403.92,Very High
+C00095,Customer 0095,Consumer,East,Patna,2026-01-11,27,18,2025-10-06,343295.02,30097.63,Very High
+C00096,Customer 0096,Corporate,South,Kochi,2025-09-29,40,16,2025-11-25,239103.27,28335.89,Very High
+C00097,Customer 0097,Consumer,East,Guwahati,2025-01-28,14,19,2025-12-30,358260.24,41448.03,Very High
+C00098,Customer 0098,Home Office,East,Patna,2025-01-12,7,14,2025-12-23,282597.87,35145.13,Very High
+C00099,Customer 0099,Consumer,West,Ahmedabad,2024-07-19,13,17,2025-12-07,266342.33,38163.34,Very High
+C00100,Customer 0100,Consumer,North,Lucknow,2024-03-10,42,22,2025-12-08,378613.1,37852.84,Very High
+C00101,Customer 0101,Corporate,North,Delhi,2024-05-13,9,18,2025-07-25,326400.14,29214.41,Very High
+C00102,Customer 0102,Home Office,South,Hyderabad,2026-02-09,14,10,2025-11-03,118164.48,-360.46,High
+C00103,Customer 0103,Consumer,South,Bengaluru,2023-10-30,39,16,2025-10-27,355951.36,57888.45,Very High
+C00104,Customer 0104,Home Office,North,Jaipur,2023-10-24,9,18,2025-11-06,397413.97,45853.12,Very High
+C00105,Customer 0105,Consumer,West,Pune,2023-02-22,9,14,2025-06-22,171386.37,16700.37,Very High
+C00106,Customer 0106,Corporate,North,Jaipur,2024-05-02,38,18,2025-12-06,342189.74,51519.61,Very High
+C00107,Customer 0107,Consumer,West,Mumbai,2023-04-18,9,14,2025-10-20,254427.96,26638.49,Very High
+C00108,Customer 0108,Corporate,East,Kolkata,2025-09-02,29,14,2025-12-11,277200.05,52885.32,Very High
+C00109,Customer 0109,Consumer,West,Mumbai,2024-03-29,40,17,2025-12-28,468620.78,67297.46,Very High
+C00110,Customer 0110,Consumer,North,Jaipur,2023-03-05,4,12,2025-10-27,227875.58,18620.8,Very High
+C00111,Customer 0111,Consumer,East,Patna,2023-08-10,32,15,2025-11-11,489045.45,98696.44,Very High
+C00112,Customer 0112,Home Office,East,Kolkata,2024-10-21,39,14,2025-10-12,131590.17,13078.65,Very High
+C00113,Customer 0113,Consumer,South,Hyderabad,2026-04-13,36,16,2025-12-13,297913.92,35769.25,Very High
+C00114,Customer 0114,Home Office,West,Surat,2025-12-22,19,11,2025-12-12,153611.09,12742.5,Very High
+C00115,Customer 0115,Consumer,East,Patna,2023-08-23,42,14,2025-12-04,405351.64,46275.68,Very High
+C00116,Customer 0116,Consumer,South,Kochi,2024-04-12,27,11,2025-12-17,149102.34,13513.22,Very High
+C00117,Customer 0117,Consumer,West,Surat,2023-07-14,21,19,2025-12-17,347977.88,25203.82,Very High
+C00118,Customer 0118,Corporate,East,Guwahati,2025-02-05,10,20,2025-12-31,289426.39,27565.19,Very High
+C00119,Customer 0119,Consumer,East,Kolkata,2023-06-24,6,18,2025-12-19,304066.14,32332.29,Very High
+C00120,Customer 0120,Corporate,East,Kolkata,2025-02-02,9,15,2025-11-15,272045.53,27463.76,Very High
+C00121,Customer 0121,Corporate,North,Jaipur,2025-04-21,23,22,2025-09-28,524004.83,69246.33,Very High
+C00122,Customer 0122,Home Office,East,Kolkata,2026-05-14,20,17,2025-12-07,435286.36,34318.42,Very High
+C00123,Customer 0123,Consumer,West,Mumbai,2024-03-11,10,20,2025-12-14,521717.73,69231.68,Very High
+C00124,Customer 0124,Home Office,East,Bhubaneswar,2024-12-18,36,12,2024-11-16,276939.42,34239.65,Very High
+C00125,Customer 0125,Corporate,West,Mumbai,2026-03-21,15,19,2025-10-20,251148.74,20292.75,Very High
+C00126,Customer 0126,Consumer,East,Kolkata,2024-07-01,2,20,2025-10-25,462163.78,17510.08,Very High
+C00127,Customer 0127,Corporate,South,Chennai,2024-09-24,22,12,2025-12-27,261695.45,31467.51,Very High
+C00128,Customer 0128,Consumer,West,Mumbai,2023-10-21,37,15,2025-11-14,348770.88,21354.19,Very High
+C00129,Customer 0129,Consumer,East,Kolkata,2023-03-04,6,19,2025-10-31,423217.18,62266.83,Very High
+C00130,Customer 0130,Consumer,South,Kochi,2024-11-29,11,8,2025-11-01,103343.74,16710.69,High
+C00131,Customer 0131,Corporate,West,Ahmedabad,2026-03-08,39,10,2025-12-23,145648.45,19004.77,Very High
+C00132,Customer 0132,Consumer,North,Delhi,2023-04-12,6,10,2024-08-16,119510.57,-246.01,High
+C00133,Customer 0133,Corporate,West,Surat,2025-09-21,39,22,2025-12-28,327265.7,38881.99,Very High
+C00134,Customer 0134,Consumer,East,Patna,2025-11-15,8,16,2025-10-23,138640.47,9544.53,Very High
+C00135,Customer 0135,Consumer,West,Surat,2026-04-29,32,15,2025-12-10,330163.94,19842.42,Very High
+C00136,Customer 0136,Consumer,West,Mumbai,2026-05-12,4,12,2025-11-21,155575.85,26395.53,Very High
+C00137,Customer 0137,Consumer,North,Chandigarh,2024-03-08,9,15,2025-11-09,262753.34,20618.69,Very High
+C00138,Customer 0138,Consumer,West,Ahmedabad,2023-01-16,32,14,2025-11-05,318354.5,40431.8,Very High
+C00139,Customer 0139,Consumer,East,Bhubaneswar,2025-12-26,15,15,2025-11-30,202948.47,11939.87,Very High
+C00140,Customer 0140,Consumer,West,Mumbai,2023-03-28,28,9,2025-03-14,110560.41,5493.72,High
+C00141,Customer 0141,Home Office,North,Lucknow,2024-10-03,37,15,2025-09-06,326474.74,13793.44,Very High
+C00142,Customer 0142,Corporate,East,Patna,2025-05-05,19,17,2025-03-23,333336.44,36299.98,Very High
+C00143,Customer 0143,Consumer,North,Lucknow,2024-10-27,11,12,2025-11-22,241019.7,-22867.13,Very High
+C00144,Customer 0144,Consumer,East,Guwahati,2023-08-05,16,16,2025-08-25,293160.77,31870.95,Very High
+C00145,Customer 0145,Consumer,East,Patna,2025-03-21,20,11,2025-06-23,232327.24,18772.5,Very High
+C00146,Customer 0146,Consumer,West,Pune,2023-12-11,5,16,2025-02-13,337866.67,37963.04,Very High
+C00147,Customer 0147,Home Office,North,Chandigarh,2024-12-16,23,18,2025-11-14,181945.98,17479.09,Very High
+C00148,Customer 0148,Consumer,South,Bengaluru,2024-06-08,13,15,2025-12-12,294739.1,19089.44,Very High
+C00149,Customer 0149,Corporate,South,Bengaluru,2023-06-04,12,25,2025-09-03,489291.54,68708.2,Very High
+C00150,Customer 0150,Corporate,East,Patna,2026-04-01,29,15,2025-11-20,367963.78,54022.68,Very High
+C00151,Customer 0151,Consumer,West,Ahmedabad,2023-05-20,31,14,2025-12-14,383026.78,39419.33,Very High
+C00152,Customer 0152,Corporate,East,Guwahati,2026-04-26,4,19,2025-11-25,321574.03,12444.86,Very High
+C00153,Customer 0153,Consumer,West,Mumbai,2025-07-14,3,17,2025-12-26,405191.11,56443.9,Very High
+C00154,Customer 0154,Home Office,North,Jaipur,2023-06-07,42,16,2025-11-11,318986.4,27537.97,Very High
+C00155,Customer 0155,Consumer,North,Lucknow,2026-02-09,3,12,2025-07-25,295862.74,57102.58,Very High
+C00156,Customer 0156,Consumer,East,Bhubaneswar,2025-09-01,33,18,2025-09-22,237087.46,33395.62,Very High
+C00157,Customer 0157,Consumer,South,Hyderabad,2024-12-04,6,18,2025-10-28,367886.28,31061.98,Very High
+C00158,Customer 0158,Consumer,South,Hyderabad,2025-06-15,29,18,2025-12-24,407155.56,55985.66,Very High
+C00159,Customer 0159,Consumer,South,Chennai,2024-08-02,25,14,2025-08-26,233729.12,34256.6,Very High
+C00160,Customer 0160,Corporate,East,Guwahati,2023-04-18,41,14,2025-12-07,204297.26,26435.34,Very High
+C00161,Customer 0161,Consumer,West,Mumbai,2026-02-16,25,11,2025-09-22,252161.26,26065.35,Very High
+C00162,Customer 0162,Corporate,West,Ahmedabad,2026-05-19,10,16,2025-12-18,358958.52,68930.58,Very High
+C00163,Customer 0163,Consumer,West,Mumbai,2023-10-17,23,12,2025-08-22,257739.36,32632.62,Very High
+C00164,Customer 0164,Consumer,West,Surat,2023-06-23,20,17,2025-07-08,616764.51,86625.0,Very High
+C00165,Customer 0165,Corporate,East,Guwahati,2025-12-14,6,19,2025-08-15,349213.1,35282.39,Very High
+C00166,Customer 0166,Consumer,East,Guwahati,2024-09-24,12,17,2025-12-07,306598.64,27051.41,Very High
+C00167,Customer 0167,Home Office,South,Chennai,2025-09-22,13,21,2025-10-31,233273.46,9781.62,Very High
+C00168,Customer 0168,Consumer,South,Bengaluru,2024-08-28,7,23,2025-12-07,357099.27,33555.59,Very High
+C00169,Customer 0169,Home Office,North,Jaipur,2023-09-26,39,17,2025-11-30,357815.84,25865.46,Very High
+C00170,Customer 0170,Consumer,East,Bhubaneswar,2023-12-06,29,16,2025-12-15,293539.49,28540.57,Very High
+C00171,Customer 0171,Consumer,North,Lucknow,2024-05-01,29,21,2025-12-25,585167.57,65477.84,Very High
+C00172,Customer 0172,Consumer,West,Surat,2024-05-04,20,13,2025-12-08,185854.61,13597.61,Very High
+C00173,Customer 0173,Consumer,East,Bhubaneswar,2026-03-14,29,13,2025-11-19,246332.69,20795.99,Very High
+C00174,Customer 0174,Corporate,East,Guwahati,2025-10-26,34,14,2025-10-11,151990.48,8905.42,Very High
+C00175,Customer 0175,Corporate,East,Bhubaneswar,2026-05-23,9,18,2025-11-02,459501.43,68085.61,Very High
+C00176,Customer 0176,Corporate,West,Mumbai,2025-01-30,36,13,2025-05-17,137524.0,5116.62,Very High
+C00177,Customer 0177,Consumer,North,Delhi,2023-11-25,18,24,2025-12-31,530479.69,93709.74,Very High
+C00178,Customer 0178,Home Office,East,Bhubaneswar,2023-07-07,15,23,2025-12-05,247833.1,26984.6,Very High
+C00179,Customer 0179,Home Office,East,Guwahati,2025-04-29,4,19,2025-10-28,497520.49,69994.09,Very High
+C00180,Customer 0180,Consumer,East,Guwahati,2023-06-17,24,22,2025-11-23,325623.52,26499.14,Very High
+C00181,Customer 0181,Consumer,South,Hyderabad,2023-07-22,42,16,2025-08-26,472522.91,57287.04,Very High
+C00182,Customer 0182,Consumer,West,Pune,2024-08-10,31,17,2025-09-23,221769.39,10554.76,Very High
+C00183,Customer 0183,Consumer,South,Kochi,2023-01-11,6,10,2025-11-16,185366.25,30100.71,Very High
+C00184,Customer 0184,Consumer,North,Jaipur,2023-11-03,36,14,2025-11-14,307358.02,40967.57,Very High
+C00185,Customer 0185,Corporate,East,Kolkata,2024-05-01,20,12,2025-11-29,328632.16,33897.59,Very High
+C00186,Customer 0186,Consumer,North,Delhi,2025-07-25,5,23,2025-11-12,394704.24,43770.73,Very High
+C00187,Customer 0187,Consumer,North,Lucknow,2023-02-03,41,12,2025-04-29,144919.63,25275.99,Very High
+C00188,Customer 0188,Consumer,South,Bengaluru,2023-01-04,40,18,2025-09-13,348867.4,45312.69,Very High
+C00189,Customer 0189,Consumer,West,Pune,2024-01-19,6,15,2025-12-16,318630.97,28813.07,Very High
+C00190,Customer 0190,Home Office,West,Mumbai,2026-01-19,33,16,2025-11-29,284236.22,36326.09,Very High
+C00191,Customer 0191,Home Office,North,Lucknow,2023-03-31,41,19,2025-11-14,302452.47,32519.99,Very High
+C00192,Customer 0192,Consumer,East,Guwahati,2023-02-03,23,14,2025-11-14,251003.34,31937.99,Very High
+C00193,Customer 0193,Consumer,North,Jaipur,2023-08-01,38,25,2025-10-21,467264.31,64163.61,Very High
+C00194,Customer 0194,Consumer,West,Pune,2026-01-23,22,19,2025-10-28,383539.85,29899.49,Very High
+C00195,Customer 0195,Home Office,South,Kochi,2025-09-07,41,14,2025-05-11,267564.21,29430.83,Very High
+C00196,Customer 0196,Consumer,South,Bengaluru,2025-07-26,3,21,2025-10-07,341099.31,46954.54,Very High
+C00197,Customer 0197,Consumer,West,Pune,2024-02-13,3,11,2025-11-21,272633.68,18387.24,Very High
+C00198,Customer 0198,Consumer,West,Ahmedabad,2026-01-17,31,13,2025-12-05,272815.66,49635.88,Very High
+C00199,Customer 0199,Corporate,West,Mumbai,2024-01-27,19,12,2025-05-10,196835.57,18712.42,Very High
+C00200,Customer 0200,Home Office,West,Mumbai,2024-11-10,18,12,2025-04-27,191713.43,29922.87,Very High
+C00201,Customer 0201,Consumer,North,Jaipur,2025-03-30,29,12,2025-06-18,185211.13,9046.32,Very High
+C00202,Customer 0202,Home Office,East,Guwahati,2025-10-13,32,19,2025-12-22,458295.95,18088.01,Very High
+C00203,Customer 0203,Corporate,West,Ahmedabad,2025-05-19,6,13,2025-08-27,260349.28,16260.84,Very High
+C00204,Customer 0204,Consumer,East,Bhubaneswar,2024-10-19,7,16,2025-12-27,259669.49,20641.14,Very High
+C00205,Customer 0205,Corporate,North,Jaipur,2024-09-19,29,15,2025-12-11,289424.71,17862.84,Very High
+C00206,Customer 0206,Corporate,East,Bhubaneswar,2024-12-20,29,16,2025-12-11,188209.16,13199.12,Very High
+C00207,Customer 0207,Consumer,North,Jaipur,2025-06-09,18,21,2025-12-15,286748.93,16628.9,Very High
+C00208,Customer 0208,Corporate,North,Delhi,2025-04-11,24,9,2025-12-30,77835.55,2079.56,High
+C00209,Customer 0209,Consumer,South,Hyderabad,2026-05-29,29,21,2025-09-22,560818.93,48708.2,Very High
+C00210,Customer 0210,Consumer,North,Chandigarh,2025-01-20,24,16,2025-11-03,285130.69,20490.3,Very High
+C00211,Customer 0211,Consumer,East,Kolkata,2025-07-10,24,14,2025-11-16,347777.28,56731.37,Very High
+C00212,Customer 0212,Corporate,West,Surat,2026-03-21,9,16,2025-11-19,238809.45,22538.33,Very High
+C00213,Customer 0213,Consumer,West,Surat,2024-07-24,16,8,2025-12-30,153403.89,4946.62,Very High
+C00214,Customer 0214,Corporate,North,Delhi,2025-10-19,34,18,2025-12-23,352703.27,18186.18,Very High
+C00215,Customer 0215,Consumer,East,Kolkata,2024-06-17,29,24,2025-12-03,535692.56,27154.77,Very High
+C00216,Customer 0216,Corporate,South,Chennai,2025-10-02,13,14,2025-12-08,375264.01,37912.43,Very High
+C00217,Customer 0217,Home Office,North,Chandigarh,2025-07-14,12,13,2025-05-12,367242.6,18685.4,Very High
+C00218,Customer 0218,Corporate,East,Kolkata,2024-10-16,23,15,2025-10-03,152146.31,15469.71,Very High
+C00219,Customer 0219,Home Office,North,Jaipur,2023-11-19,41,21,2025-12-22,444272.22,34363.61,Very High
+C00220,Customer 0220,Consumer,South,Chennai,2023-09-06,13,25,2025-12-29,496988.41,61171.61,Very High
+C00221,Customer 0221,Corporate,South,Bengaluru,2023-02-23,24,13,2025-11-10,300968.84,36228.06,Very High
+C00222,Customer 0222,Corporate,West,Surat,2026-02-03,9,22,2025-11-07,469157.72,74595.45,Very High
+C00223,Customer 0223,Consumer,North,Delhi,2025-09-07,34,18,2025-11-14,341158.45,-1250.92,Very High
+C00224,Customer 0224,Home Office,East,Patna,2023-06-01,9,16,2025-12-06,341439.33,29686.61,Very High
+C00225,Customer 0225,Consumer,West,Mumbai,2025-11-25,23,17,2025-12-07,268512.7,26163.55,Very High
+C00226,Customer 0226,Corporate,South,Bengaluru,2023-09-22,28,14,2025-09-21,203503.35,5603.32,Very High
+C00227,Customer 0227,Consumer,North,Delhi,2024-09-14,11,16,2025-11-27,234226.94,22442.07,Very High
+C00228,Customer 0228,Home Office,South,Chennai,2024-04-06,23,15,2025-11-24,232360.95,26531.16,Very High
+C00229,Customer 0229,Consumer,West,Mumbai,2026-02-02,18,20,2025-12-13,510153.06,43117.66,Very High
+C00230,Customer 0230,Consumer,South,Chennai,2023-07-11,33,18,2025-11-13,306082.63,39097.64,Very High
+C00231,Customer 0231,Consumer,South,Bengaluru,2026-05-24,22,16,2025-12-30,288715.05,47998.84,Very High
+C00232,Customer 0232,Consumer,North,Delhi,2026-03-27,17,17,2025-11-10,551886.38,71698.43,Very High
+C00233,Customer 0233,Consumer,South,Kochi,2023-03-04,32,14,2025-07-23,275834.88,35193.41,Very High
+C00234,Customer 0234,Consumer,West,Ahmedabad,2025-04-11,20,13,2025-12-08,396803.47,35203.47,Very High
+C00235,Customer 0235,Corporate,East,Kolkata,2023-11-20,29,16,2025-11-18,214138.75,17977.44,Very High
+C00236,Customer 0236,Consumer,East,Patna,2024-11-27,39,14,2025-12-12,271043.22,7672.96,Very High
+C00237,Customer 0237,Home Office,South,Chennai,2024-10-15,23,12,2025-01-15,141422.83,18134.11,Very High
+C00238,Customer 0238,Corporate,East,Bhubaneswar,2025-11-20,36,11,2025-12-20,300460.14,9188.6,Very High
+C00239,Customer 0239,Consumer,North,Jaipur,2023-09-08,18,15,2025-10-08,309440.37,44029.27,Very High
+C00240,Customer 0240,Consumer,East,Bhubaneswar,2023-04-14,19,11,2025-12-11,261039.02,36375.78,Very High
+C00241,Customer 0241,Consumer,East,Patna,2023-11-24,21,15,2025-11-18,415270.16,65386.49,Very High
+C00242,Customer 0242,Corporate,West,Pune,2025-10-17,33,10,2025-12-21,163358.18,17496.85,Very High
+C00243,Customer 0243,Home Office,East,Patna,2025-10-15,2,14,2025-06-15,220804.04,15280.57,Very High
+C00244,Customer 0244,Consumer,North,Lucknow,2024-05-08,14,18,2025-10-09,407137.97,31407.29,Very High
+C00245,Customer 0245,Consumer,West,Mumbai,2025-10-10,39,21,2025-11-02,493719.0,68584.98,Very High
+C00246,Customer 0246,Consumer,East,Guwahati,2023-08-09,28,16,2025-10-08,248101.59,18163.17,Very High
+C00247,Customer 0247,Corporate,South,Chennai,2025-04-05,24,10,2024-12-27,174236.58,-40.66,Very High
+C00248,Customer 0248,Consumer,North,Lucknow,2026-02-24,13,11,2025-08-12,218595.26,4185.67,Very High
+C00249,Customer 0249,Consumer,West,Ahmedabad,2025-10-29,29,12,2025-07-27,224634.36,23936.71,Very High
+C00250,Customer 0250,Consumer,West,Mumbai,2023-07-18,26,16,2025-08-26,320578.76,29984.36,Very High
+C00251,Customer 0251,Consumer,West,Ahmedabad,2025-01-18,10,15,2025-11-02,356400.02,28630.29,Very High
+C00252,Customer 0252,Consumer,South,Kochi,2023-04-03,3,18,2025-09-18,333248.33,52246.22,Very High
+C00253,Customer 0253,Corporate,South,Chennai,2025-11-29,30,14,2025-10-18,207547.16,30476.66,Very High
+C00254,Customer 0254,Consumer,South,Bengaluru,2024-10-14,11,16,2025-09-15,271438.57,35555.61,Very High
+C00255,Customer 0255,Consumer,East,Guwahati,2025-11-04,33,14,2025-11-20,252187.72,28405.75,Very High
+C00256,Customer 0256,Consumer,East,Guwahati,2023-02-04,24,28,2025-12-06,843348.34,140639.05,Very High
+C00257,Customer 0257,Home Office,West,Mumbai,2026-04-10,20,13,2025-10-31,297120.39,36476.84,Very High
+C00258,Customer 0258,Consumer,North,Lucknow,2026-03-30,37,17,2025-10-28,260431.67,10323.76,Very High
+C00259,Customer 0259,Consumer,South,Hyderabad,2023-12-16,34,14,2025-09-19,255485.05,24843.46,Very High
+C00260,Customer 0260,Home Office,East,Bhubaneswar,2024-05-11,3,20,2025-09-07,378563.51,48516.72,Very High
+C00261,Customer 0261,Consumer,North,Chandigarh,2024-10-04,27,19,2025-12-30,302365.92,42615.79,Very High
+C00262,Customer 0262,Corporate,South,Kochi,2025-04-20,33,13,2025-12-05,272028.62,31882.25,Very High
+C00263,Customer 0263,Corporate,East,Kolkata,2025-11-28,14,16,2025-08-06,541471.04,68318.11,Very High
+C00264,Customer 0264,Consumer,West,Surat,2024-10-04,12,20,2025-12-13,282833.99,9198.2,Very High
+C00265,Customer 0265,Consumer,East,Guwahati,2024-06-25,40,8,2025-12-06,177940.58,15578.35,Very High
+C00266,Customer 0266,Home Office,East,Bhubaneswar,2024-07-25,36,23,2025-08-19,471793.16,65957.41,Very High
+C00267,Customer 0267,Home Office,West,Pune,2024-09-01,19,15,2025-12-30,274310.85,28647.94,Very High
+C00268,Customer 0268,Consumer,South,Kochi,2024-12-15,36,17,2025-10-15,415534.34,56284.46,Very High
+C00269,Customer 0269,Consumer,West,Ahmedabad,2026-01-17,25,18,2025-12-10,418282.62,12713.29,Very High
+C00270,Customer 0270,Home Office,East,Guwahati,2023-10-27,19,16,2025-12-07,218934.47,16425.9,Very High
+C00271,Customer 0271,Home Office,North,Jaipur,2023-06-11,23,12,2025-07-30,215762.83,24138.58,Very High
+C00272,Customer 0272,Corporate,East,Guwahati,2024-03-14,13,18,2025-11-07,169495.0,-1411.54,Very High
+C00273,Customer 0273,Consumer,West,Ahmedabad,2026-04-16,16,22,2025-12-12,566403.85,35171.14,Very High
+C00274,Customer 0274,Corporate,South,Hyderabad,2025-12-23,15,15,2025-08-12,416575.38,54924.5,Very High
+C00275,Customer 0275,Consumer,South,Hyderabad,2024-11-07,31,11,2025-12-11,186979.76,28938.49,Very High
+C00276,Customer 0276,Consumer,North,Chandigarh,2026-02-01,11,14,2025-11-19,179901.26,21284.29,Very High
+C00277,Customer 0277,Consumer,East,Patna,2024-02-13,19,16,2025-12-25,191426.26,28162.53,Very High
+C00278,Customer 0278,Corporate,West,Ahmedabad,2023-07-03,42,13,2025-10-02,381771.31,57259.31,Very High
+C00279,Customer 0279,Home Office,South,Hyderabad,2023-12-25,27,11,2025-09-22,239157.52,33370.87,Very High
+C00280,Customer 0280,Home Office,South,Hyderabad,2025-03-24,32,16,2025-08-04,156602.42,6012.33,Very High
+C00281,Customer 0281,Home Office,South,Chennai,2023-01-19,20,13,2025-09-17,229668.23,37558.56,Very High
+C00282,Customer 0282,Consumer,North,Jaipur,2026-01-17,34,19,2025-09-29,386157.16,49477.59,Very High
+C00283,Customer 0283,Home Office,East,Bhubaneswar,2025-08-16,18,13,2025-07-28,209413.32,19345.35,Very High
+C00284,Customer 0284,Consumer,South,Hyderabad,2025-07-28,42,13,2025-08-20,366612.81,36454.71,Very High
+C00285,Customer 0285,Consumer,West,Pune,2024-11-21,19,20,2025-12-28,293143.61,34199.32,Very High
+C00286,Customer 0286,Consumer,South,Bengaluru,2025-04-10,28,13,2025-10-13,271406.08,52936.99,Very High
+C00287,Customer 0287,Consumer,West,Mumbai,2023-07-15,12,14,2025-11-11,304967.67,38293.28,Very High
+C00288,Customer 0288,Consumer,South,Kochi,2024-05-23,1,16,2025-12-02,204290.6,28263.62,Very High
+C00289,Customer 0289,Consumer,West,Surat,2024-06-30,22,12,2025-11-19,305025.16,59449.46,Very High
+C00290,Customer 0290,Consumer,West,Mumbai,2025-01-06,16,15,2025-11-24,230954.46,35959.13,Very High
+C00291,Customer 0291,Consumer,North,Delhi,2023-11-24,26,11,2025-12-07,334721.46,38026.45,Very High
+C00292,Customer 0292,Corporate,West,Mumbai,2024-08-27,24,15,2025-10-02,232177.0,16507.9,Very High
+C00293,Customer 0293,Home Office,South,Bengaluru,2025-09-06,10,14,2025-11-24,120167.98,7218.98,Very High
+C00294,Customer 0294,Consumer,East,Guwahati,2026-01-29,31,14,2025-12-10,175226.23,7612.76,Very High
+C00295,Customer 0295,Corporate,South,Bengaluru,2026-05-05,6,17,2025-12-27,455203.15,75581.1,Very High
+C00296,Customer 0296,Consumer,East,Guwahati,2026-03-01,8,15,2025-11-03,220997.86,21795.8,Very High
+C00297,Customer 0297,Consumer,North,Chandigarh,2023-11-03,11,11,2025-09-03,214776.03,13253.94,Very High
+C00298,Customer 0298,Consumer,West,Surat,2024-02-25,38,15,2025-12-26,403158.92,68898.55,Very High
+C00299,Customer 0299,Home Office,East,Kolkata,2025-07-01,4,11,2025-12-06,215712.48,34291.15,Very High
+C00300,Customer 0300,Consumer,East,Bhubaneswar,2025-07-24,37,13,2025-12-23,286016.63,39546.11,Very High
+C00301,Customer 0301,Corporate,North,Lucknow,2024-09-23,2,11,2025-04-27,181355.72,14313.93,Very High
+C00302,Customer 0302,Corporate,East,Guwahati,2024-03-22,38,15,2025-11-12,178289.49,9758.05,Very High
+C00303,Customer 0303,Consumer,North,Delhi,2023-05-11,35,13,2025-12-06,147567.7,21931.08,Very High
+C00304,Customer 0304,Home Office,North,Delhi,2025-08-24,3,26,2025-11-29,559135.59,69772.75,Very High
+C00305,Customer 0305,Consumer,West,Surat,2023-10-05,42,10,2025-12-13,174235.18,23672.68,Very High
+C00306,Customer 0306,Home Office,East,Guwahati,2025-02-22,29,19,2025-01-11,253413.49,28412.68,Very High
+C00307,Customer 0307,Consumer,East,Patna,2026-01-09,9,7,2025-12-17,93406.2,3036.63,High
+C00308,Customer 0308,Consumer,West,Mumbai,2026-01-05,26,6,2025-12-30,90119.35,7522.24,High
+C00309,Customer 0309,Home Office,South,Bengaluru,2023-02-16,20,10,2025-04-07,156172.35,1259.14,Very High
+C00310,Customer 0310,Consumer,East,Patna,2024-04-15,16,14,2025-11-08,152695.29,7458.47,Very High
+C00311,Customer 0311,Consumer,East,Guwahati,2024-01-22,8,21,2025-12-23,319494.47,38357.24,Very High
+C00312,Customer 0312,Consumer,North,Lucknow,2023-02-02,16,17,2025-10-06,306514.02,39438.45,Very High
+C00313,Customer 0313,Consumer,South,Hyderabad,2023-03-10,29,14,2025-11-21,211081.81,25250.36,Very High
+C00314,Customer 0314,Corporate,North,Chandigarh,2025-04-03,29,10,2025-06-29,284969.61,25921.11,Very High
+C00315,Customer 0315,Corporate,South,Bengaluru,2023-04-26,9,19,2025-06-05,309588.47,43158.86,Very High
+C00316,Customer 0316,Corporate,West,Pune,2026-03-25,21,9,2025-10-20,136210.28,16784.59,Very High
+C00317,Customer 0317,Consumer,West,Pune,2023-10-21,34,12,2025-06-16,169671.03,11897.79,Very High
+C00318,Customer 0318,Consumer,South,Kochi,2023-05-05,36,16,2025-12-29,301058.09,18447.41,Very High
+C00319,Customer 0319,Consumer,South,Kochi,2023-04-07,23,15,2025-12-22,442193.59,53709.31,Very High
+C00320,Customer 0320,Corporate,East,Guwahati,2025-04-16,10,12,2025-05-08,117766.58,9527.63,High
+C00321,Customer 0321,Consumer,West,Surat,2026-01-06,31,14,2025-11-26,195160.77,15488.95,Very High
+C00322,Customer 0322,Consumer,South,Bengaluru,2023-10-23,30,19,2025-12-11,293980.03,26751.51,Very High
+C00323,Customer 0323,Home Office,North,Lucknow,2026-02-15,34,11,2025-12-06,166210.21,8414.75,Very High
+C00324,Customer 0324,Consumer,South,Kochi,2024-02-21,22,21,2025-12-05,434533.79,53021.21,Very High
+C00325,Customer 0325,Home Office,North,Lucknow,2023-07-09,35,14,2025-11-08,314390.06,42967.93,Very High
+C00326,Customer 0326,Consumer,South,Hyderabad,2026-05-23,39,18,2025-10-19,270069.79,33951.42,Very High
+C00327,Customer 0327,Consumer,North,Delhi,2026-04-18,36,15,2025-10-13,319650.63,51106.67,Very High
+C00328,Customer 0328,Consumer,South,Kochi,2024-11-12,20,19,2025-10-07,368265.61,19594.73,Very High
+C00329,Customer 0329,Home Office,North,Chandigarh,2023-08-29,31,17,2025-06-23,241821.17,14066.09,Very High
+C00330,Customer 0330,Consumer,South,Bengaluru,2024-05-05,36,12,2025-07-26,202440.08,25930.96,Very High
+C00331,Customer 0331,Consumer,West,Ahmedabad,2025-12-28,42,15,2025-12-28,266440.9,27074.37,Very High
+C00332,Customer 0332,Consumer,West,Ahmedabad,2025-11-16,32,16,2025-10-05,328334.16,54244.47,Very High
+C00333,Customer 0333,Corporate,East,Kolkata,2025-08-19,21,19,2025-12-21,316763.18,46797.4,Very High
+C00334,Customer 0334,Consumer,South,Chennai,2023-04-04,37,15,2025-07-17,204331.62,24477.4,Very High
+C00335,Customer 0335,Consumer,South,Bengaluru,2026-02-07,38,18,2025-12-16,408721.11,20508.6,Very High
+C00336,Customer 0336,Consumer,East,Guwahati,2024-11-06,15,15,2025-11-03,246820.64,33074.78,Very High
+C00337,Customer 0337,Consumer,East,Bhubaneswar,2024-11-22,17,17,2025-07-17,534915.52,80741.84,Very High
+C00338,Customer 0338,Consumer,East,Patna,2024-12-22,11,15,2025-11-29,329408.12,33904.17,Very High
+C00339,Customer 0339,Consumer,South,Kochi,2026-01-15,42,18,2025-11-21,388224.66,44451.55,Very High
+C00340,Customer 0340,Home Office,North,Delhi,2023-06-02,4,11,2025-12-26,210677.28,10047.72,Very High
+C00341,Customer 0341,Consumer,North,Lucknow,2024-04-18,5,11,2024-09-09,272524.78,57790.56,Very High
+C00342,Customer 0342,Consumer,South,Hyderabad,2025-07-22,24,23,2025-07-12,408754.38,39273.44,Very High
+C00343,Customer 0343,Corporate,North,Lucknow,2023-02-02,1,18,2025-09-20,285809.63,43234.67,Very High
+C00344,Customer 0344,Consumer,East,Kolkata,2024-07-16,35,18,2025-10-02,314906.29,27904.98,Very High
+C00345,Customer 0345,Consumer,West,Mumbai,2025-05-31,12,17,2025-12-01,290180.72,32320.57,Very High
+C00346,Customer 0346,Consumer,North,Delhi,2024-05-08,13,15,2025-11-24,279097.85,14150.6,Very High
+C00347,Customer 0347,Consumer,West,Ahmedabad,2025-03-23,6,19,2025-11-28,270407.53,16724.25,Very High
+C00348,Customer 0348,Consumer,West,Surat,2024-05-13,15,20,2025-12-23,379613.47,45933.58,Very High
+C00349,Customer 0349,Corporate,West,Mumbai,2023-03-06,6,11,2025-09-17,203050.18,23743.59,Very High
+C00350,Customer 0350,Consumer,East,Patna,2025-09-01,4,17,2025-07-14,357392.59,32284.24,Very High
+C00351,Customer 0351,Consumer,North,Chandigarh,2025-06-07,42,9,2025-10-09,221397.76,1818.45,Very High
+C00352,Customer 0352,Home Office,West,Mumbai,2023-03-29,15,16,2025-11-15,293752.94,15684.33,Very High
+C00353,Customer 0353,Consumer,South,Kochi,2023-06-02,18,14,2025-08-30,412049.59,57242.45,Very High
+C00354,Customer 0354,Home Office,North,Chandigarh,2024-10-06,2,20,2025-10-25,411406.55,57306.14,Very High
+C00355,Customer 0355,Corporate,South,Bengaluru,2025-03-26,5,10,2025-12-15,171652.97,33952.66,Very High
+C00356,Customer 0356,Consumer,West,Pune,2026-03-06,25,10,2025-12-04,366355.96,51317.06,Very High
+C00357,Customer 0357,Corporate,West,Surat,2023-10-14,6,16,2025-10-26,348739.65,65239.77,Very High
+C00358,Customer 0358,Consumer,West,Mumbai,2024-04-20,5,23,2025-12-21,443002.21,16867.91,Very High
+C00359,Customer 0359,Home Office,West,Surat,2024-10-30,2,15,2025-10-22,241223.64,24478.34,Very High
+C00360,Customer 0360,Consumer,West,Surat,2024-12-29,36,20,2025-09-22,277717.84,29787.58,Very High
+C00361,Customer 0361,Consumer,East,Patna,2026-04-14,25,16,2025-09-29,264794.79,21926.88,Very High
+C00362,Customer 0362,Corporate,North,Jaipur,2023-05-31,6,12,2025-11-25,175330.55,17722.46,Very High
+C00363,Customer 0363,Consumer,West,Pune,2023-11-12,25,11,2025-09-27,80637.44,2087.05,High
+C00364,Customer 0364,Consumer,West,Ahmedabad,2023-01-11,20,15,2025-12-15,306224.76,36894.89,Very High
+C00365,Customer 0365,Corporate,East,Guwahati,2023-07-29,9,13,2025-11-20,228490.75,10500.79,Very High
+C00366,Customer 0366,Consumer,North,Chandigarh,2026-02-14,36,14,2025-11-22,135290.41,8424.16,Very High
+C00367,Customer 0367,Consumer,East,Kolkata,2024-12-25,36,11,2025-12-23,159295.04,8031.48,Very High
+C00368,Customer 0368,Home Office,North,Jaipur,2023-01-26,19,14,2025-12-17,141539.14,12867.81,Very High
+C00369,Customer 0369,Corporate,East,Patna,2026-02-19,16,19,2025-12-08,277727.93,36364.89,Very High
+C00370,Customer 0370,Consumer,South,Kochi,2024-07-04,20,11,2025-11-09,245951.51,14927.48,Very High
+C00371,Customer 0371,Consumer,West,Surat,2023-12-09,28,14,2025-07-02,174160.63,15552.51,Very High
+C00372,Customer 0372,Consumer,West,Surat,2023-06-07,24,14,2025-12-13,274941.02,45607.47,Very High
+C00373,Customer 0373,Corporate,West,Pune,2025-10-12,39,13,2025-11-14,162672.34,13101.92,Very High
+C00374,Customer 0374,Consumer,South,Kochi,2024-09-15,1,19,2025-12-17,339519.24,51329.8,Very High
+C00375,Customer 0375,Home Office,East,Guwahati,2025-02-17,22,8,2025-10-31,177554.26,40023.05,Very High
+C00376,Customer 0376,Consumer,East,Guwahati,2026-05-02,9,18,2025-12-09,234633.65,26950.01,Very High
+C00377,Customer 0377,Consumer,West,Ahmedabad,2024-02-16,31,11,2025-11-28,134366.21,17900.53,Very High
+C00378,Customer 0378,Home Office,West,Pune,2024-10-15,19,24,2025-11-17,561531.85,67209.75,Very High
+C00379,Customer 0379,Consumer,East,Bhubaneswar,2024-07-28,26,16,2025-10-07,253954.31,16914.25,Very High
+C00380,Customer 0380,Home Office,West,Mumbai,2024-02-14,38,17,2025-11-27,329356.02,40371.53,Very High
+C00381,Customer 0381,Home Office,South,Hyderabad,2025-08-03,14,13,2025-06-03,221007.74,8104.34,Very High
+C00382,Customer 0382,Home Office,East,Guwahati,2023-05-22,27,15,2025-12-21,391310.18,51375.36,Very High
+C00383,Customer 0383,Corporate,East,Bhubaneswar,2024-05-10,17,16,2025-09-02,312312.81,21895.47,Very High
+C00384,Customer 0384,Corporate,South,Kochi,2023-06-01,29,16,2025-08-24,474363.02,43260.44,Very High
+C00385,Customer 0385,Consumer,East,Patna,2025-05-06,35,14,2025-09-23,262041.84,14772.54,Very High
+C00386,Customer 0386,Corporate,North,Jaipur,2026-01-04,39,13,2025-12-30,340985.41,36816.15,Very High
+C00387,Customer 0387,Corporate,North,Delhi,2024-12-28,11,21,2025-11-23,514673.58,42899.51,Very High
+C00388,Customer 0388,Home Office,North,Lucknow,2024-11-10,28,9,2025-09-28,128717.79,11824.66,Very High
+C00389,Customer 0389,Consumer,North,Delhi,2024-03-30,33,13,2025-10-23,272005.58,28669.71,Very High
+C00390,Customer 0390,Consumer,South,Kochi,2025-08-06,38,16,2025-11-10,658831.02,97965.27,Very High
+C00391,Customer 0391,Home Office,South,Chennai,2025-09-15,7,11,2025-12-01,126957.57,17093.2,Very High
+C00392,Customer 0392,Home Office,West,Surat,2023-06-25,8,19,2025-10-11,394688.42,37651.43,Very High
+C00393,Customer 0393,Consumer,South,Chennai,2025-07-21,14,7,2025-11-20,147925.01,10405.03,Very High
+C00394,Customer 0394,Consumer,East,Guwahati,2025-06-16,29,18,2025-10-23,400340.62,46851.06,Very High
+C00395,Customer 0395,Consumer,West,Mumbai,2023-08-24,2,10,2025-06-29,245194.14,33967.17,Very High
+C00396,Customer 0396,Corporate,West,Mumbai,2023-12-03,16,12,2025-05-26,201907.2,26660.09,Very High
+C00397,Customer 0397,Consumer,South,Bengaluru,2025-05-23,30,20,2025-12-17,413550.86,54446.57,Very High
+C00398,Customer 0398,Corporate,South,Kochi,2024-01-17,41,14,2025-11-05,340785.34,52372.85,Very High
+C00399,Customer 0399,Consumer,East,Patna,2024-02-09,29,8,2025-12-01,60997.02,3290.71,High
+C00400,Customer 0400,Consumer,East,Patna,2024-03-15,14,12,2025-07-02,311328.92,49379.18,Very High
+C00401,Customer 0401,Consumer,West,Mumbai,2026-01-04,12,7,2025-11-13,125626.92,23426.57,Very High
+C00402,Customer 0402,Consumer,West,Ahmedabad,2023-08-22,17,10,2025-10-26,214981.93,4891.94,Very High
+C00403,Customer 0403,Consumer,East,Guwahati,2025-03-14,38,15,2025-11-11,280429.35,39186.04,Very High
+C00404,Customer 0404,Consumer,North,Jaipur,2025-07-26,40,17,2025-12-30,257368.03,39411.21,Very High
+C00405,Customer 0405,Home Office,South,Chennai,2026-04-23,6,20,2025-09-08,609863.07,64519.44,Very High
+C00406,Customer 0406,Consumer,South,Chennai,2024-09-17,8,10,2025-04-11,210158.05,14796.22,Very High
+C00407,Customer 0407,Corporate,South,Chennai,2025-11-12,25,18,2025-12-16,454919.61,43789.49,Very High
+C00408,Customer 0408,Consumer,East,Bhubaneswar,2025-05-16,12,12,2025-10-15,172451.39,11571.45,Very High
+C00409,Customer 0409,Consumer,East,Bhubaneswar,2025-09-29,19,11,2025-07-19,238652.1,32072.13,Very High
+C00410,Customer 0410,Consumer,South,Bengaluru,2025-07-12,40,16,2025-06-02,271850.93,20623.95,Very High
+C00411,Customer 0411,Home Office,North,Jaipur,2025-09-19,9,11,2025-12-22,237146.65,-15278.47,Very High
+C00412,Customer 0412,Home Office,South,Kochi,2025-11-01,42,18,2025-09-29,349745.04,32035.35,Very High
+C00413,Customer 0413,Corporate,East,Patna,2025-05-01,29,18,2025-12-20,313015.36,35857.7,Very High
+C00414,Customer 0414,Consumer,East,Bhubaneswar,2023-03-05,15,15,2025-12-25,301555.48,29079.45,Very High
+C00415,Customer 0415,Consumer,West,Mumbai,2026-01-06,19,9,2025-12-18,115988.06,17401.76,High
+C00416,Customer 0416,Consumer,South,Kochi,2025-10-11,36,17,2025-09-23,290509.24,38582.0,Very High
+C00417,Customer 0417,Consumer,North,Delhi,2026-01-17,24,17,2025-10-07,298168.48,31206.94,Very High
+C00418,Customer 0418,Consumer,North,Lucknow,2025-05-20,7,7,2025-12-25,133536.21,10726.4,Very High
+C00419,Customer 0419,Home Office,South,Chennai,2023-03-08,29,21,2025-12-20,352539.79,34502.03,Very High
+C00420,Customer 0420,Home Office,West,Ahmedabad,2023-06-28,29,15,2025-10-04,198200.5,11350.57,Very High
+C00421,Customer 0421,Consumer,North,Chandigarh,2026-04-19,23,16,2025-10-06,350054.06,27198.17,Very High
+C00422,Customer 0422,Consumer,East,Bhubaneswar,2024-02-28,14,11,2025-11-30,217739.68,28819.65,Very High
+C00423,Customer 0423,Consumer,North,Jaipur,2026-05-07,35,14,2025-08-30,250713.5,24979.14,Very High
+C00424,Customer 0424,Home Office,South,Chennai,2024-08-22,19,18,2025-12-19,390916.43,41988.47,Very High
+C00425,Customer 0425,Consumer,West,Mumbai,2025-04-22,4,13,2025-12-10,351148.08,59940.36,Very High
+C00426,Customer 0426,Corporate,West,Pune,2023-09-29,16,23,2025-11-22,327065.99,41473.73,Very High
+C00427,Customer 0427,Home Office,South,Chennai,2025-03-15,32,13,2025-08-01,268288.64,28009.07,Very High
+C00428,Customer 0428,Corporate,South,Chennai,2025-02-07,29,15,2025-11-05,221929.7,17229.99,Very High
+C00429,Customer 0429,Consumer,North,Delhi,2024-07-23,24,10,2025-11-18,204841.33,23596.59,Very High
+C00430,Customer 0430,Consumer,East,Patna,2023-01-06,6,10,2025-08-23,164714.08,27935.75,Very High
+C00431,Customer 0431,Home Office,East,Guwahati,2025-12-30,26,16,2025-10-22,307307.17,45164.4,Very High
+C00432,Customer 0432,Home Office,South,Kochi,2025-10-10,18,23,2025-12-21,597826.6,78511.71,Very High
+C00433,Customer 0433,Consumer,West,Ahmedabad,2026-03-29,9,18,2025-11-24,370527.78,45668.39,Very High
+C00434,Customer 0434,Home Office,East,Guwahati,2023-04-10,3,14,2025-11-23,192572.85,23837.39,Very High
+C00435,Customer 0435,Consumer,North,Lucknow,2023-11-20,29,13,2025-12-20,327360.21,74818.05,Very High
+C00436,Customer 0436,Home Office,East,Kolkata,2025-05-26,13,15,2025-11-24,254497.01,24924.34,Very High
+C00437,Customer 0437,Consumer,South,Chennai,2024-07-15,6,14,2025-12-17,234228.06,53527.92,Very High
+C00438,Customer 0438,Consumer,West,Ahmedabad,2023-12-05,4,10,2025-09-02,123682.82,3878.17,Very High
+C00439,Customer 0439,Corporate,East,Guwahati,2024-04-24,28,12,2025-12-07,306440.16,35587.39,Very High
+C00440,Customer 0440,Consumer,North,Delhi,2025-09-03,5,13,2025-12-13,255036.92,27958.48,Very High
+C00441,Customer 0441,Consumer,South,Bengaluru,2025-06-30,1,17,2025-12-10,276664.76,25974.59,Very High
+C00442,Customer 0442,Corporate,North,Jaipur,2025-05-14,9,13,2025-09-15,191150.88,-8038.43,Very High
+C00443,Customer 0443,Consumer,East,Kolkata,2023-07-02,7,18,2025-10-06,332257.25,54869.44,Very High
+C00444,Customer 0444,Consumer,North,Jaipur,2024-09-04,9,16,2025-10-29,181078.39,3303.71,Very High
+C00445,Customer 0445,Corporate,East,Bhubaneswar,2023-10-20,5,12,2025-10-12,132136.72,7225.56,Very High
+C00446,Customer 0446,Consumer,North,Chandigarh,2024-03-12,41,14,2025-12-10,234979.78,874.74,Very High
+C00447,Customer 0447,Consumer,South,Kochi,2025-06-25,14,10,2025-10-01,102627.23,4109.46,High
+C00448,Customer 0448,Consumer,North,Delhi,2023-09-10,38,15,2025-11-17,436170.38,64681.45,Very High
+C00449,Customer 0449,Home Office,East,Guwahati,2024-10-06,9,16,2025-10-08,189024.1,8245.51,Very High
+C00450,Customer 0450,Corporate,South,Chennai,2024-05-23,36,20,2025-12-10,468681.15,60103.04,Very High
+C00451,Customer 0451,Home Office,West,Mumbai,2024-09-09,14,17,2025-12-01,171369.92,17719.0,Very High
+C00452,Customer 0452,Consumer,South,Kochi,2023-04-22,16,13,2025-10-03,293014.26,37198.08,Very High
+C00453,Customer 0453,Consumer,East,Patna,2025-10-20,41,16,2025-07-12,363986.32,50627.17,Very High
+C00454,Customer 0454,Home Office,North,Delhi,2024-10-10,9,7,2025-08-26,108126.04,14967.92,High
+C00455,Customer 0455,Consumer,East,Patna,2023-12-20,31,9,2025-02-25,112949.16,2771.72,High
+C00456,Customer 0456,Consumer,North,Delhi,2023-01-29,17,15,2025-10-19,230745.88,15291.3,Very High
+C00457,Customer 0457,Home Office,South,Hyderabad,2025-03-26,33,19,2025-12-31,519927.59,71793.61,Very High
+C00458,Customer 0458,Consumer,West,Surat,2025-04-03,6,16,2025-12-26,372605.77,47676.15,Very High
+C00459,Customer 0459,Consumer,South,Chennai,2023-06-11,33,16,2025-12-30,293986.45,5109.9,Very High
+C00460,Customer 0460,Consumer,South,Bengaluru,2025-03-11,38,19,2025-12-29,206034.16,2052.01,Very High
+C00461,Customer 0461,Corporate,North,Jaipur,2024-05-03,4,8,2025-10-13,180150.69,25938.99,Very High
+C00462,Customer 0462,Home Office,South,Hyderabad,2023-08-26,30,18,2025-12-14,480957.22,23640.32,Very High
+C00463,Customer 0463,Corporate,North,Jaipur,2023-12-26,8,17,2025-11-20,379940.16,40913.94,Very High
+C00464,Customer 0464,Corporate,North,Chandigarh,2023-12-02,32,15,2025-12-28,339902.48,54765.7,Very High
+C00465,Customer 0465,Consumer,West,Ahmedabad,2023-09-17,18,12,2025-10-20,339907.86,46390.4,Very High
+C00466,Customer 0466,Consumer,North,Delhi,2025-05-29,18,21,2025-10-22,525204.12,62630.23,Very High
+C00467,Customer 0467,Corporate,North,Jaipur,2026-03-26,41,19,2025-12-21,502021.08,63041.02,Very High
+C00468,Customer 0468,Consumer,North,Lucknow,2025-01-07,4,16,2025-10-05,260029.65,37170.73,Very High
+C00469,Customer 0469,Consumer,East,Bhubaneswar,2024-06-06,7,19,2025-12-18,226312.71,9931.71,Very High
+C00470,Customer 0470,Corporate,North,Chandigarh,2023-01-06,3,21,2025-12-10,351465.64,44271.51,Very High
+C00471,Customer 0471,Consumer,North,Chandigarh,2025-01-15,25,11,2025-11-28,255547.47,38925.98,Very High
+C00472,Customer 0472,Home Office,South,Bengaluru,2023-03-14,36,14,2025-12-03,407976.9,32370.46,Very High
+C00473,Customer 0473,Consumer,East,Bhubaneswar,2025-05-02,21,9,2025-03-11,103720.36,8983.27,High
+C00474,Customer 0474,Consumer,West,Mumbai,2023-09-02,33,10,2025-12-12,224269.47,23818.88,Very High
+C00475,Customer 0475,Consumer,North,Chandigarh,2025-11-22,3,16,2025-12-19,409969.37,76614.38,Very High
+C00476,Customer 0476,Home Office,East,Kolkata,2024-08-01,20,20,2025-12-07,378691.78,32805.48,Very High
+C00477,Customer 0477,Consumer,West,Mumbai,2023-01-17,24,15,2025-11-20,231770.41,35294.13,Very High
+C00478,Customer 0478,Consumer,South,Chennai,2024-09-14,40,17,2025-10-14,305951.42,37274.79,Very High
+C00479,Customer 0479,Consumer,South,Kochi,2025-10-07,13,15,2025-10-01,280827.24,7535.95,Very High
+C00480,Customer 0480,Consumer,South,Bengaluru,2025-04-19,2,20,2025-12-17,297666.1,26427.04,Very High
+C00481,Customer 0481,Corporate,South,Chennai,2023-01-20,22,18,2025-12-29,294162.73,12942.3,Very High
+C00482,Customer 0482,Home Office,North,Lucknow,2024-09-21,7,16,2025-04-23,276205.2,22284.28,Very High
+C00483,Customer 0483,Consumer,South,Bengaluru,2023-05-03,10,17,2025-12-28,343963.64,38351.13,Very High
+C00484,Customer 0484,Consumer,West,Mumbai,2024-04-19,34,12,2025-10-19,217161.89,24404.97,Very High
+C00485,Customer 0485,Consumer,East,Guwahati,2023-06-23,38,10,2025-12-11,190134.69,27285.98,Very High
+C00486,Customer 0486,Corporate,North,Chandigarh,2025-03-18,5,19,2025-12-31,274158.09,37336.5,Very High
+C00487,Customer 0487,Corporate,North,Lucknow,2023-09-25,16,6,2025-08-03,57173.8,1428.72,High
+C00488,Customer 0488,Home Office,West,Ahmedabad,2025-03-15,21,8,2025-06-20,136459.14,13119.39,Very High
+C00489,Customer 0489,Consumer,West,Surat,2023-06-02,13,10,2025-12-04,265770.81,43137.91,Very High
+C00490,Customer 0490,Consumer,South,Hyderabad,2023-12-03,29,17,2025-12-22,284702.47,3945.17,Very High
+C00491,Customer 0491,Consumer,East,Guwahati,2026-01-02,23,17,2025-11-18,333398.89,50565.67,Very High
+C00492,Customer 0492,Consumer,South,Kochi,2024-06-26,8,19,2025-12-30,282875.51,22386.36,Very High
+C00493,Customer 0493,Corporate,North,Chandigarh,2024-09-15,39,14,2025-04-03,279674.84,31073.48,Very High
+C00494,Customer 0494,Home Office,North,Chandigarh,2024-11-02,10,9,2025-11-30,132049.88,12303.27,Very High
+C00495,Customer 0495,Home Office,North,Chandigarh,2025-03-22,33,16,2025-11-21,222117.68,13543.73,Very High
+C00496,Customer 0496,Consumer,North,Jaipur,2023-12-23,2,17,2025-11-13,138778.94,8839.18,Very High
+C00497,Customer 0497,Consumer,East,Patna,2026-01-31,16,10,2025-12-01,114268.67,11838.77,High
+C00498,Customer 0498,Consumer,North,Lucknow,2023-10-14,8,14,2025-10-27,276093.76,53515.5,Very High
+C00499,Customer 0499,Home Office,North,Delhi,2024-03-31,9,21,2025-08-10,289015.64,22041.88,Very High
+C00500,Customer 0500,Consumer,South,Kochi,2023-06-22,38,23,2025-12-28,448479.12,51650.05,Very High
+C00501,Customer 0501,Consumer,West,Mumbai,2023-05-13,13,19,2025-12-31,308302.82,26781.5,Very High
+C00502,Customer 0502,Consumer,East,Bhubaneswar,2024-11-10,8,13,2025-11-08,70707.98,6491.13,High
+C00503,Customer 0503,Consumer,North,Lucknow,2026-03-21,28,15,2025-10-14,355180.99,62334.96,Very High
+C00504,Customer 0504,Consumer,East,Patna,2025-05-23,12,12,2025-10-05,324554.9,37139.1,Very High
+C00505,Customer 0505,Home Office,West,Pune,2024-07-17,18,13,2025-10-07,250012.61,33203.86,Very High
+C00506,Customer 0506,Consumer,East,Bhubaneswar,2024-05-18,42,13,2025-11-08,407136.32,44665.62,Very High
+C00507,Customer 0507,Consumer,West,Surat,2026-02-01,31,8,2025-11-03,216648.83,26419.43,Very High
+C00508,Customer 0508,Consumer,North,Delhi,2023-10-09,27,15,2025-11-08,414250.6,36550.84,Very High
+C00509,Customer 0509,Corporate,South,Bengaluru,2026-01-18,2,15,2025-12-28,259496.52,33452.46,Very High
+C00510,Customer 0510,Consumer,East,Guwahati,2025-09-19,23,14,2025-09-24,316705.74,30946.91,Very High
+C00511,Customer 0511,Consumer,West,Surat,2023-02-23,21,14,2025-11-18,203827.47,20432.68,Very High
+C00512,Customer 0512,Home Office,South,Hyderabad,2024-07-29,4,16,2025-12-28,312371.73,26026.97,Very High
+C00513,Customer 0513,Corporate,East,Guwahati,2024-04-21,11,14,2025-11-04,172751.93,16118.7,Very High
+C00514,Customer 0514,Corporate,North,Chandigarh,2024-06-29,35,18,2025-12-25,230149.58,27101.09,Very High
+C00515,Customer 0515,Consumer,North,Chandigarh,2025-03-06,23,10,2025-12-07,323513.46,54139.95,Very High
+C00516,Customer 0516,Consumer,South,Bengaluru,2024-10-13,23,12,2025-11-03,317015.66,42978.87,Very High
+C00517,Customer 0517,Home Office,North,Jaipur,2026-02-28,10,18,2025-12-31,172987.66,21758.02,Very High
+C00518,Customer 0518,Consumer,South,Kochi,2023-12-26,32,17,2025-12-20,288231.99,40005.79,Very High
+C00519,Customer 0519,Consumer,North,Delhi,2026-05-17,15,20,2025-09-18,454362.86,65527.97,Very High
+C00520,Customer 0520,Consumer,North,Lucknow,2024-02-17,9,16,2025-11-24,351734.38,44385.55,Very High
+C00521,Customer 0521,Home Office,West,Pune,2024-10-24,4,12,2025-08-30,229085.22,24345.46,Very High
+C00522,Customer 0522,Consumer,North,Chandigarh,2023-10-18,8,13,2025-12-04,297131.14,9269.83,Very High
+C00523,Customer 0523,Consumer,West,Mumbai,2025-03-21,38,18,2025-10-29,387629.97,45326.04,Very High
+C00524,Customer 0524,Consumer,North,Jaipur,2023-10-07,11,24,2025-12-28,599307.78,79536.07,Very High
+C00525,Customer 0525,Corporate,East,Patna,2023-12-23,36,15,2025-10-06,248594.55,31935.93,Very High
+C00526,Customer 0526,Corporate,West,Pune,2023-12-26,25,19,2025-11-15,405376.37,8745.98,Very High
+C00527,Customer 0527,Consumer,West,Ahmedabad,2023-01-04,37,12,2025-12-07,187618.41,8793.19,Very High
+C00528,Customer 0528,Consumer,East,Kolkata,2024-10-13,40,20,2025-11-23,300164.2,5415.67,Very High
+C00529,Customer 0529,Home Office,South,Hyderabad,2023-10-16,22,13,2025-12-01,110197.21,11458.39,High
+C00530,Customer 0530,Consumer,North,Chandigarh,2024-10-16,11,18,2025-11-11,363647.59,48732.16,Very High
+C00531,Customer 0531,Consumer,North,Jaipur,2024-06-27,14,16,2025-12-20,335336.38,24346.56,Very High
+C00532,Customer 0532,Consumer,South,Hyderabad,2023-08-10,1,21,2025-12-16,383348.09,67381.76,Very High
+C00533,Customer 0533,Consumer,North,Lucknow,2025-05-09,11,14,2025-07-21,240105.92,-1400.79,Very High
+C00534,Customer 0534,Home Office,East,Patna,2024-12-20,35,19,2025-06-27,248780.88,22002.48,Very High
+C00535,Customer 0535,Home Office,East,Kolkata,2026-03-29,42,11,2025-02-03,135843.99,5109.78,Very High
+C00536,Customer 0536,Consumer,South,Bengaluru,2023-03-10,19,14,2025-12-21,397467.95,47147.65,Very High
+C00537,Customer 0537,Consumer,North,Jaipur,2023-08-03,5,14,2025-08-21,288612.92,35616.15,Very High
+C00538,Customer 0538,Home Office,West,Pune,2023-11-26,5,18,2025-12-06,402150.26,30223.38,Very High
+C00539,Customer 0539,Consumer,North,Jaipur,2025-09-15,2,11,2025-09-29,305248.18,31177.66,Very High
+C00540,Customer 0540,Consumer,East,Bhubaneswar,2025-06-08,11,20,2025-10-30,525516.89,88703.55,Very High
+C00541,Customer 0541,Consumer,North,Delhi,2024-01-25,27,14,2025-08-02,260373.03,29324.17,Very High
+C00542,Customer 0542,Consumer,West,Ahmedabad,2023-07-16,4,11,2025-06-09,338541.1,19991.17,Very High
+C00543,Customer 0543,Consumer,East,Patna,2025-01-08,1,13,2025-06-06,157860.66,11012.55,Very High
+C00544,Customer 0544,Consumer,East,Kolkata,2026-05-14,31,14,2025-12-29,128389.13,12551.12,Very High
+C00545,Customer 0545,Consumer,South,Hyderabad,2023-12-16,41,16,2025-04-09,295106.88,30566.88,Very High
+C00546,Customer 0546,Consumer,West,Mumbai,2023-08-25,20,19,2025-11-08,356818.13,36339.95,Very High
+C00547,Customer 0547,Consumer,East,Patna,2024-06-26,6,12,2025-11-14,210351.76,23923.47,Very High
+C00548,Customer 0548,Consumer,East,Bhubaneswar,2025-02-20,24,19,2025-07-19,385146.84,36327.7,Very High
+C00549,Customer 0549,Consumer,South,Kochi,2025-06-19,30,16,2025-08-04,388558.66,50660.84,Very High
+C00550,Customer 0550,Home Office,West,Pune,2026-03-01,4,16,2025-08-24,304521.87,31424.73,Very High
+C00551,Customer 0551,Consumer,South,Hyderabad,2024-12-05,35,12,2025-12-29,195472.86,5467.25,Very High
+C00552,Customer 0552,Consumer,East,Bhubaneswar,2025-03-03,34,14,2025-09-07,287176.1,12994.58,Very High
+C00553,Customer 0553,Consumer,East,Patna,2024-04-27,31,16,2025-11-06,410295.15,69624.13,Very High
+C00554,Customer 0554,Consumer,West,Mumbai,2023-03-13,33,17,2025-11-30,311353.03,45273.41,Very High
+C00555,Customer 0555,Home Office,South,Hyderabad,2025-07-08,12,11,2025-05-19,258263.9,31049.17,Very High
+C00556,Customer 0556,Corporate,South,Bengaluru,2023-09-16,3,13,2025-10-30,260789.18,10454.18,Very High
+C00557,Customer 0557,Home Office,East,Kolkata,2025-06-10,13,14,2025-07-25,235579.55,29553.61,Very High
+C00558,Customer 0558,Consumer,South,Chennai,2023-05-18,6,13,2025-12-24,356133.18,13872.96,Very High
+C00559,Customer 0559,Consumer,East,Patna,2024-07-19,34,16,2025-11-05,218855.26,25396.37,Very High
+C00560,Customer 0560,Corporate,East,Kolkata,2026-04-18,34,19,2025-12-27,325979.28,29329.52,Very High
+C00561,Customer 0561,Consumer,East,Kolkata,2023-10-31,37,21,2025-11-30,339961.36,29963.64,Very High
+C00562,Customer 0562,Consumer,North,Delhi,2023-07-26,19,10,2025-10-10,155428.55,3782.7,Very High
+C00563,Customer 0563,Consumer,West,Surat,2025-09-21,37,15,2025-12-22,241195.72,29273.04,Very High
+C00564,Customer 0564,Consumer,East,Kolkata,2025-04-05,10,24,2025-12-02,454322.43,62105.7,Very High
+C00565,Customer 0565,Consumer,East,Kolkata,2024-11-09,16,18,2025-12-06,237026.79,29811.02,Very High
+C00566,Customer 0566,Home Office,North,Lucknow,2025-02-01,2,17,2025-12-17,306517.16,48904.63,Very High
+C00567,Customer 0567,Consumer,West,Ahmedabad,2025-10-03,7,16,2025-11-27,215819.27,12057.52,Very High
+C00568,Customer 0568,Consumer,South,Bengaluru,2025-06-26,21,15,2025-06-03,281203.47,40803.46,Very High
+C00569,Customer 0569,Consumer,West,Surat,2023-07-02,13,15,2025-12-10,117220.05,4934.01,High
+C00570,Customer 0570,Home Office,East,Bhubaneswar,2025-04-13,32,17,2025-12-14,167758.87,15116.1,Very High
+C00571,Customer 0571,Consumer,West,Mumbai,2023-11-22,5,13,2025-08-08,177204.21,9150.14,Very High
+C00572,Customer 0572,Consumer,West,Surat,2025-12-09,37,13,2025-12-24,162916.01,20158.49,Very High
+C00573,Customer 0573,Consumer,North,Chandigarh,2024-02-16,4,12,2025-12-31,210073.96,28725.94,Very High
+C00574,Customer 0574,Consumer,South,Hyderabad,2025-01-08,13,16,2025-09-23,362235.9,42052.33,Very High
+C00575,Customer 0575,Home Office,West,Ahmedabad,2025-10-31,26,13,2025-12-25,298224.1,22683.45,Very High
+C00576,Customer 0576,Consumer,North,Delhi,2025-09-28,39,20,2025-07-05,284315.6,23599.36,Very High
+C00577,Customer 0577,Home Office,East,Bhubaneswar,2025-08-29,38,16,2025-12-29,308233.52,39934.89,Very High
+C00578,Customer 0578,Consumer,West,Ahmedabad,2024-06-13,6,11,2025-07-19,209747.8,24306.87,Very High
+C00579,Customer 0579,Consumer,West,Mumbai,2023-11-30,37,19,2025-07-25,384803.18,57196.4,Very High
+C00580,Customer 0580,Corporate,South,Bengaluru,2024-02-28,18,12,2025-09-07,391819.53,42036.88,Very High
+C00581,Customer 0581,Home Office,East,Kolkata,2023-01-19,31,17,2025-04-21,293092.44,19924.99,Very High
+C00582,Customer 0582,Consumer,South,Bengaluru,2023-01-18,15,17,2025-09-19,436038.63,23092.29,Very High
+C00583,Customer 0583,Corporate,West,Ahmedabad,2024-07-17,28,18,2025-12-19,469345.91,53876.85,Very High
+C00584,Customer 0584,Consumer,East,Guwahati,2024-03-22,30,14,2025-04-26,259716.47,29680.86,Very High
+C00585,Customer 0585,Consumer,West,Surat,2023-01-16,33,16,2025-10-13,433783.09,56812.43,Very High
+C00586,Customer 0586,Consumer,West,Ahmedabad,2023-08-10,31,15,2025-12-07,271253.87,30099.79,Very High
+C00587,Customer 0587,Home Office,North,Jaipur,2024-10-27,18,18,2025-11-02,514912.62,70001.32,Very High
+C00588,Customer 0588,Consumer,West,Ahmedabad,2025-11-25,16,13,2025-10-24,199622.64,21159.23,Very High
+C00589,Customer 0589,Corporate,North,Lucknow,2023-10-14,2,11,2025-12-04,260472.02,32762.26,Very High
+C00590,Customer 0590,Consumer,East,Guwahati,2025-05-07,26,20,2025-09-17,371948.91,40447.63,Very High
+C00591,Customer 0591,Consumer,East,Kolkata,2026-03-17,13,16,2025-11-24,205988.21,27366.15,Very High
+C00592,Customer 0592,Corporate,West,Pune,2025-09-01,23,14,2025-09-15,153375.87,11604.28,Very High
+C00593,Customer 0593,Home Office,West,Pune,2026-02-17,12,11,2025-10-27,157574.26,13796.99,Very High
+C00594,Customer 0594,Consumer,West,Mumbai,2024-06-13,36,13,2025-11-29,234115.99,28292.84,Very High
+C00595,Customer 0595,Corporate,South,Chennai,2024-03-31,23,20,2025-12-29,243079.41,28664.55,Very High
+C00596,Customer 0596,Consumer,South,Chennai,2024-11-09,24,20,2025-10-25,312237.43,34733.84,Very High
+C00597,Customer 0597,Consumer,West,Ahmedabad,2023-08-30,31,10,2025-10-11,265858.6,34179.91,Very High
+C00598,Customer 0598,Consumer,North,Delhi,2024-02-03,33,18,2025-12-23,484517.61,35924.9,Very High
+C00599,Customer 0599,Consumer,North,Lucknow,2025-04-26,4,12,2025-08-09,179888.97,15331.97,Very High
+C00600,Customer 0600,Home Office,South,Bengaluru,2024-12-02,27,16,2025-11-14,400534.89,57492.66,Very High
+C00601,Customer 0601,Consumer,East,Bhubaneswar,2024-01-05,6,23,2025-11-21,402847.42,33641.95,Very High
+C00602,Customer 0602,Corporate,East,Guwahati,2023-12-29,21,15,2025-11-22,176658.86,-511.16,Very High
+C00603,Customer 0603,Consumer,North,Delhi,2024-03-04,11,12,2025-05-13,340840.99,67530.91,Very High
+C00604,Customer 0604,Corporate,South,Kochi,2023-06-30,9,14,2025-06-17,331202.91,35192.18,Very High
+C00605,Customer 0605,Consumer,East,Patna,2025-09-04,25,17,2025-11-02,302178.55,29349.66,Very High
+C00606,Customer 0606,Consumer,North,Delhi,2025-02-03,1,14,2025-11-20,417115.22,38375.19,Very High
+C00607,Customer 0607,Consumer,West,Pune,2023-01-09,41,18,2025-10-02,354918.9,56908.47,Very High
+C00608,Customer 0608,Corporate,South,Bengaluru,2024-12-06,20,12,2025-12-16,255840.35,30692.2,Very High
+C00609,Customer 0609,Consumer,South,Hyderabad,2026-04-20,20,16,2025-11-14,436836.62,61666.43,Very High
+C00610,Customer 0610,Home Office,South,Hyderabad,2024-09-02,19,12,2025-11-26,113876.3,10975.7,High
+C00611,Customer 0611,Consumer,East,Guwahati,2023-10-02,22,15,2025-12-02,238884.85,24083.47,Very High
+C00612,Customer 0612,Corporate,East,Guwahati,2023-12-04,26,15,2025-09-11,323250.28,42984.56,Very High
+C00613,Customer 0613,Consumer,North,Chandigarh,2023-09-26,14,18,2025-09-09,315479.68,39906.78,Very High
+C00614,Customer 0614,Consumer,North,Chandigarh,2023-03-18,25,13,2025-11-11,370488.52,43425.58,Very High
+C00615,Customer 0615,Consumer,West,Mumbai,2023-04-09,7,22,2025-12-28,492234.16,46937.28,Very High
+C00616,Customer 0616,Corporate,North,Delhi,2025-05-03,29,14,2025-07-31,101473.39,991.12,High
+C00617,Customer 0617,Consumer,East,Kolkata,2025-08-29,10,11,2025-07-25,219536.09,20762.14,Very High
+C00618,Customer 0618,Consumer,South,Hyderabad,2023-07-26,34,20,2025-12-20,360759.35,36629.11,Very High
+C00619,Customer 0619,Consumer,West,Pune,2023-08-03,33,16,2025-12-12,159735.21,15883.06,Very High
+C00620,Customer 0620,Consumer,North,Jaipur,2023-08-06,32,11,2025-12-28,276361.47,36865.02,Very High
+C00621,Customer 0621,Corporate,South,Bengaluru,2025-12-07,13,14,2025-11-30,280653.8,32843.94,Very High
+C00622,Customer 0622,Consumer,West,Surat,2023-03-22,36,19,2025-12-14,413009.79,43692.82,Very High
+C00623,Customer 0623,Corporate,East,Bhubaneswar,2025-09-11,22,15,2025-12-16,290961.35,31220.99,Very High
+C00624,Customer 0624,Consumer,South,Hyderabad,2023-07-02,8,17,2025-11-09,416569.71,63596.08,Very High
+C00625,Customer 0625,Home Office,East,Bhubaneswar,2025-11-13,5,17,2025-10-17,373105.97,20742.12,Very High
+C00626,Customer 0626,Corporate,North,Jaipur,2025-07-24,19,14,2025-11-01,207976.64,20150.41,Very High
+C00627,Customer 0627,Consumer,West,Surat,2023-12-24,3,12,2025-11-25,484996.75,75856.78,Very High
+C00628,Customer 0628,Corporate,West,Ahmedabad,2024-10-02,28,10,2025-06-10,180027.01,18418.14,Very High
+C00629,Customer 0629,Home Office,North,Delhi,2023-04-04,1,10,2025-12-24,178868.36,27262.99,Very High
+C00630,Customer 0630,Consumer,South,Bengaluru,2025-06-15,40,13,2025-12-22,240717.37,41668.25,Very High
+C00631,Customer 0631,Consumer,West,Mumbai,2024-12-02,12,16,2025-10-12,229401.65,23543.53,Very High
+C00632,Customer 0632,Consumer,North,Lucknow,2025-07-23,18,16,2025-11-23,341433.11,34151.71,Very High
+C00633,Customer 0633,Corporate,East,Patna,2023-12-08,8,11,2025-01-19,280807.74,50061.39,Very High
+C00634,Customer 0634,Home Office,South,Hyderabad,2023-11-23,7,15,2025-10-27,340231.29,61983.56,Very High
+C00635,Customer 0635,Corporate,East,Patna,2025-06-16,12,17,2025-07-09,337892.23,45866.41,Very High
+C00636,Customer 0636,Consumer,East,Guwahati,2023-09-25,31,19,2025-12-18,485508.9,48660.88,Very High
+C00637,Customer 0637,Home Office,East,Kolkata,2025-06-21,3,14,2025-08-03,312904.62,24762.34,Very High
+C00638,Customer 0638,Corporate,North,Jaipur,2023-01-26,34,15,2025-12-22,360164.9,50974.56,Very High
+C00639,Customer 0639,Consumer,South,Chennai,2023-07-15,28,13,2025-06-30,433737.84,44527.67,Very High
+C00640,Customer 0640,Consumer,South,Kochi,2025-02-27,10,14,2025-12-21,249664.62,14779.83,Very High
+C00641,Customer 0641,Corporate,North,Delhi,2023-11-18,33,11,2025-10-27,225106.71,28728.93,Very High
+C00642,Customer 0642,Home Office,East,Patna,2023-06-03,32,19,2025-11-27,429567.07,57257.89,Very High
+C00643,Customer 0643,Consumer,West,Pune,2024-07-23,4,15,2025-11-21,246501.95,41397.08,Very High
+C00644,Customer 0644,Consumer,South,Kochi,2024-04-26,6,16,2025-09-26,366368.0,36819.56,Very High
+C00645,Customer 0645,Corporate,East,Patna,2025-07-06,6,7,2025-11-16,75694.84,8942.19,High
+C00646,Customer 0646,Consumer,East,Patna,2025-10-15,42,19,2025-12-10,534168.02,67973.45,Very High
+C00647,Customer 0647,Consumer,North,Delhi,2023-03-15,36,14,2025-12-15,236578.08,1606.38,Very High
+C00648,Customer 0648,Corporate,North,Delhi,2024-09-15,33,13,2025-09-03,112995.08,-5905.68,High
+C00649,Customer 0649,Home Office,South,Kochi,2025-01-14,4,21,2025-10-25,385337.35,57619.16,Very High
+C00650,Customer 0650,Consumer,South,Kochi,2026-05-13,31,23,2025-11-26,414503.66,43553.52,Very High
+C00651,Customer 0651,Consumer,West,Surat,2024-03-30,1,24,2025-11-26,206021.12,9401.11,Very High
+C00652,Customer 0652,Home Office,West,Ahmedabad,2024-08-20,36,9,2025-11-26,85971.42,-1682.48,High
+C00653,Customer 0653,Consumer,West,Mumbai,2023-12-03,32,15,2025-11-26,241220.16,39385.75,Very High
+C00654,Customer 0654,Consumer,South,Kochi,2024-02-06,13,17,2025-12-10,320071.94,23016.68,Very High
+C00655,Customer 0655,Consumer,North,Lucknow,2024-01-26,22,11,2025-10-03,175738.25,16315.86,Very High
+C00656,Customer 0656,Consumer,North,Lucknow,2026-04-20,8,18,2025-12-31,413121.31,27413.51,Very High
+C00657,Customer 0657,Corporate,East,Patna,2025-10-29,9,19,2025-12-07,378446.85,39677.71,Very High
+C00658,Customer 0658,Consumer,East,Kolkata,2023-04-10,36,14,2025-11-18,307058.19,39986.19,Very High
+C00659,Customer 0659,Home Office,East,Patna,2023-12-29,38,18,2025-11-25,365557.46,48089.78,Very High
+C00660,Customer 0660,Consumer,South,Bengaluru,2026-05-14,39,13,2025-11-05,290932.38,36678.62,Very High
+C00661,Customer 0661,Consumer,West,Surat,2026-06-01,16,6,2025-03-08,164395.03,16348.14,Very High
+C00662,Customer 0662,Home Office,West,Surat,2024-08-25,29,21,2025-12-15,592525.16,67195.44,Very High
+C00663,Customer 0663,Consumer,South,Bengaluru,2025-11-15,20,10,2025-12-16,252570.58,23647.67,Very High
+C00664,Customer 0664,Consumer,West,Pune,2024-08-18,23,16,2025-12-29,384346.48,60304.36,Very High
+C00665,Customer 0665,Consumer,South,Bengaluru,2024-10-22,8,10,2025-12-07,229581.86,10964.03,Very High
+C00666,Customer 0666,Consumer,West,Surat,2025-05-04,35,11,2025-12-19,209160.28,17526.19,Very High
+C00667,Customer 0667,Corporate,West,Surat,2025-12-06,7,19,2025-10-06,433017.14,72634.01,Very High
+C00668,Customer 0668,Consumer,North,Lucknow,2023-04-26,13,13,2025-07-09,281846.1,38946.13,Very High
+C00669,Customer 0669,Home Office,West,Pune,2024-05-28,10,13,2025-08-11,83223.55,5782.37,High
+C00670,Customer 0670,Consumer,North,Jaipur,2026-01-13,3,14,2025-11-23,315329.13,46150.2,Very High
+C00671,Customer 0671,Consumer,West,Surat,2026-02-24,15,12,2025-09-28,244885.01,36081.36,Very High
+C00672,Customer 0672,Consumer,East,Bhubaneswar,2024-08-12,4,9,2025-06-04,305788.36,6520.82,Very High
+C00673,Customer 0673,Consumer,East,Patna,2024-10-02,36,15,2025-08-11,320980.54,16084.93,Very High
+C00674,Customer 0674,Corporate,North,Delhi,2024-02-20,40,13,2025-08-30,182160.5,12399.97,Very High
+C00675,Customer 0675,Home Office,East,Bhubaneswar,2025-01-23,38,9,2025-05-15,154617.27,11953.24,Very High
+C00676,Customer 0676,Consumer,South,Bengaluru,2023-12-30,5,13,2025-11-24,210769.29,29728.78,Very High
+C00677,Customer 0677,Corporate,South,Bengaluru,2023-09-02,25,19,2025-12-16,600247.23,23932.29,Very High
+C00678,Customer 0678,Consumer,North,Lucknow,2024-06-25,9,14,2025-05-02,279550.09,36790.99,Very High
+C00679,Customer 0679,Consumer,South,Chennai,2025-08-13,10,16,2025-11-26,281574.49,25073.47,Very High
+C00680,Customer 0680,Home Office,North,Chandigarh,2026-05-07,4,7,2025-01-27,131525.4,23463.94,Very High
+C00681,Customer 0681,Corporate,West,Surat,2026-01-31,23,17,2025-11-09,323621.95,9045.67,Very High
+C00682,Customer 0682,Consumer,North,Jaipur,2024-01-12,34,13,2025-08-09,139394.17,14306.61,Very High
+C00683,Customer 0683,Consumer,North,Chandigarh,2026-01-04,26,10,2025-11-04,173273.54,-6258.91,Very High
+C00684,Customer 0684,Consumer,North,Jaipur,2024-03-12,22,10,2025-12-29,204181.53,7974.85,Very High
+C00685,Customer 0685,Consumer,West,Ahmedabad,2025-12-22,31,12,2025-11-04,183663.23,6059.13,Very High
+C00686,Customer 0686,Corporate,North,Delhi,2025-07-01,16,18,2025-11-23,326423.34,39824.24,Very High
+C00687,Customer 0687,Corporate,South,Hyderabad,2024-10-19,25,10,2025-10-24,158100.97,28972.31,Very High
+C00688,Customer 0688,Consumer,North,Lucknow,2024-08-02,2,14,2025-12-12,253675.28,12966.16,Very High
+C00689,Customer 0689,Consumer,West,Surat,2024-08-30,42,14,2025-10-15,345040.14,41949.37,Very High
+C00690,Customer 0690,Consumer,South,Chennai,2023-07-16,11,14,2025-11-10,367316.54,37519.04,Very High
+C00691,Customer 0691,Consumer,North,Delhi,2024-03-12,28,17,2025-10-04,214268.3,32968.09,Very High
+C00692,Customer 0692,Consumer,North,Chandigarh,2025-06-10,42,12,2025-12-27,255925.99,19697.29,Very High
+C00693,Customer 0693,Consumer,North,Chandigarh,2024-11-10,3,22,2025-11-27,335543.57,37440.97,Very High
+C00694,Customer 0694,Consumer,North,Delhi,2024-05-30,36,18,2025-10-31,366984.86,73831.35,Very High
+C00695,Customer 0695,Home Office,North,Chandigarh,2025-04-14,25,8,2025-03-29,142269.74,12066.58,Very High
+C00696,Customer 0696,Consumer,East,Patna,2023-02-04,25,10,2025-11-19,70494.56,7918.29,High
+C00697,Customer 0697,Corporate,North,Delhi,2023-05-10,38,12,2025-08-22,259301.93,42374.72,Very High
+C00698,Customer 0698,Consumer,North,Delhi,2025-10-26,7,20,2025-07-20,394767.93,48387.08,Very High
+C00699,Customer 0699,Consumer,West,Ahmedabad,2024-07-30,29,9,2025-08-11,65119.67,-1223.26,High
+C00700,Customer 0700,Home Office,East,Patna,2023-03-05,31,11,2025-09-11,238177.69,25389.29,Very High
+C00701,Customer 0701,Consumer,South,Bengaluru,2025-03-11,35,12,2025-11-23,154683.74,9736.97,Very High
+C00702,Customer 0702,Consumer,West,Pune,2025-02-03,1,11,2025-07-13,220340.0,38118.64,Very High
+C00703,Customer 0703,Consumer,South,Hyderabad,2026-03-18,39,16,2025-11-26,308768.7,-928.8,Very High
+C00704,Customer 0704,Consumer,East,Kolkata,2024-12-05,14,17,2025-11-07,292678.78,51519.8,Very High
+C00705,Customer 0705,Consumer,East,Bhubaneswar,2024-03-28,40,17,2025-06-17,324136.3,43654.55,Very High
+C00706,Customer 0706,Consumer,West,Pune,2026-03-07,4,14,2025-03-07,219288.63,27254.34,Very High
+C00707,Customer 0707,Consumer,East,Kolkata,2023-05-18,17,16,2025-12-27,386631.32,40971.77,Very High
+C00708,Customer 0708,Corporate,North,Chandigarh,2025-09-24,22,16,2025-11-02,335915.03,39525.88,Very High
+C00709,Customer 0709,Corporate,West,Pune,2024-04-25,7,9,2025-08-20,140351.16,18178.7,Very High
+C00710,Customer 0710,Home Office,West,Mumbai,2024-10-12,32,15,2025-12-03,321014.87,40461.48,Very High
+C00711,Customer 0711,Consumer,East,Guwahati,2024-09-18,38,18,2025-11-10,408322.8,64324.02,Very High
+C00712,Customer 0712,Corporate,South,Chennai,2025-05-27,11,21,2025-12-03,542201.54,49615.55,Very High
+C00713,Customer 0713,Consumer,North,Jaipur,2024-03-29,42,12,2025-11-25,179314.7,2571.83,Very High
+C00714,Customer 0714,Home Office,East,Guwahati,2023-10-03,22,14,2025-07-29,196592.48,25498.4,Very High
+C00715,Customer 0715,Consumer,East,Patna,2024-09-17,32,18,2025-10-18,361421.95,37630.87,Very High
+C00716,Customer 0716,Corporate,North,Chandigarh,2023-06-17,18,16,2025-11-29,263441.54,53435.06,Very High
+C00717,Customer 0717,Consumer,South,Bengaluru,2023-06-06,5,12,2025-10-28,218056.02,19895.14,Very High
+C00718,Customer 0718,Corporate,North,Delhi,2026-03-31,26,17,2025-10-10,451578.29,38624.37,Very High
+C00719,Customer 0719,Consumer,South,Hyderabad,2026-01-18,35,19,2025-12-17,248912.81,17311.19,Very High
+C00720,Customer 0720,Consumer,East,Bhubaneswar,2024-04-02,38,18,2025-08-21,171079.05,18160.72,Very High
+C00721,Customer 0721,Consumer,West,Pune,2025-11-11,6,15,2025-10-07,419585.01,49570.34,Very High
+C00722,Customer 0722,Consumer,East,Guwahati,2024-05-04,40,18,2025-12-31,295342.71,27019.3,Very High
+C00723,Customer 0723,Consumer,South,Bengaluru,2024-01-02,37,17,2025-11-15,312543.47,32300.63,Very High
+C00724,Customer 0724,Home Office,South,Kochi,2023-03-24,15,19,2025-12-19,205969.72,7391.45,Very High
+C00725,Customer 0725,Consumer,East,Bhubaneswar,2025-01-26,15,20,2025-12-05,341447.38,41159.24,Very High
+C00726,Customer 0726,Consumer,North,Chandigarh,2025-01-09,25,17,2025-12-03,179910.46,4407.92,Very High
+C00727,Customer 0727,Home Office,East,Patna,2023-03-23,42,17,2025-12-29,355456.08,34990.94,Very High
+C00728,Customer 0728,Corporate,West,Mumbai,2025-12-03,41,21,2025-11-14,286192.18,18286.67,Very High
+C00729,Customer 0729,Consumer,West,Ahmedabad,2026-03-13,12,13,2025-10-01,120403.67,10157.93,Very High
+C00730,Customer 0730,Consumer,East,Patna,2023-06-09,34,11,2025-06-03,163505.4,28147.05,Very High
+C00731,Customer 0731,Home Office,West,Surat,2024-04-01,34,13,2025-10-04,280639.98,23690.62,Very High
+C00732,Customer 0732,Corporate,East,Guwahati,2024-12-07,32,17,2025-11-06,270644.06,45187.08,Very High
+C00733,Customer 0733,Consumer,East,Kolkata,2023-10-12,29,18,2025-10-16,368617.14,42674.09,Very High
+C00734,Customer 0734,Consumer,South,Bengaluru,2024-07-29,14,10,2025-09-20,233507.25,35481.21,Very High
+C00735,Customer 0735,Consumer,South,Bengaluru,2026-05-17,8,12,2025-05-21,96575.42,1978.35,High
+C00736,Customer 0736,Corporate,South,Kochi,2023-08-21,31,14,2025-12-28,269339.59,34540.35,Very High
+C00737,Customer 0737,Consumer,East,Patna,2023-11-27,42,23,2025-09-23,346394.07,35077.78,Very High
+C00738,Customer 0738,Consumer,East,Kolkata,2023-09-19,37,12,2025-07-09,180758.19,23273.24,Very High
+C00739,Customer 0739,Corporate,South,Bengaluru,2023-03-22,37,17,2025-12-23,577604.15,55370.14,Very High
+C00740,Customer 0740,Consumer,South,Hyderabad,2024-01-04,34,16,2025-11-21,317045.53,58160.9,Very High
+C00741,Customer 0741,Home Office,East,Kolkata,2024-08-03,6,11,2025-10-04,104726.83,-3280.85,High
+C00742,Customer 0742,Consumer,South,Kochi,2025-08-23,31,16,2025-12-02,364451.49,41896.53,Very High
+C00743,Customer 0743,Home Office,South,Bengaluru,2026-05-15,10,17,2025-10-07,304296.78,22672.15,Very High
+C00744,Customer 0744,Consumer,South,Chennai,2024-12-02,30,15,2025-11-16,192248.87,15217.16,Very High
+C00745,Customer 0745,Consumer,North,Chandigarh,2023-09-28,7,18,2025-12-27,358461.14,47158.64,Very High
+C00746,Customer 0746,Consumer,North,Chandigarh,2025-10-29,27,20,2025-11-10,514635.29,42518.58,Very High
+C00747,Customer 0747,Consumer,South,Hyderabad,2026-05-13,3,12,2025-07-27,378114.6,57893.77,Very High
+C00748,Customer 0748,Consumer,North,Delhi,2023-09-24,39,18,2025-12-24,248237.42,40202.98,Very High
+C00749,Customer 0749,Consumer,North,Lucknow,2025-01-28,3,19,2025-11-03,414126.73,31916.6,Very High
+C00750,Customer 0750,Home Office,East,Bhubaneswar,2025-09-14,25,13,2025-09-27,300051.72,40637.11,Very High
