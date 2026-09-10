@@ -41,6 +41,13 @@ def load_table(csv_file: str, table_name: str):
 
     df = pd.read_csv(csv_path)
 
+    if table_name == "order_items":
+        df.insert(
+            0,
+            "order_item_id",
+            [f"OI{i:06d}" for i in range(1, len(df) + 1)]
+        )
+
     engine = create_engine(get_database_url())
 
     df.to_sql(
